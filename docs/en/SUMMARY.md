@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [中文（主入口）](#/)
+* [Tiếng Việt](#/vi/)
 
 ### Part I
 
