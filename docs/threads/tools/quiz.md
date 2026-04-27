@@ -190,6 +190,14 @@ function showResult() {
   history.push({date: new Date().toISOString(), score: quizScore, total: quizQuestions.length});
   localStorage.setItem('quiz-history', JSON.stringify(history.slice(-20)));
 
+  // Save wrong words for progress tracking
+  if(quizWrong.length > 0) {
+    const existing = JSON.parse(localStorage.getItem('quiz-wrong') || '[]');
+    const newWrong = quizWrong.map(w => w.en);
+    const combined = [...new Set([...existing, ...newWrong])].slice(-50);
+    localStorage.setItem('quiz-wrong', JSON.stringify(combined));
+  }
+
   // Show wrong answers
   const reviewEl = document.getElementById('quiz-review');
   if(quizWrong.length > 0) {
