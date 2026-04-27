@@ -10,11 +10,11 @@ Tiếng Việt | [English](#/en/)
 
 An advanced guide to learn English which might benefit you a lot.
 
-[Cẩm nang nâng cao trình độ tiếng Anh](https://github.com/byoungd/English-level-up-tips).
+[Cẩm nang nâng cao trình độ tiếng Anh](https://github.com/harperpets20-lang/English-level-up-tips).
 
 ## Bối cảnh
 
-Xin chào bạn — chào mừng bạn đến với [Cẩm nang nâng cao trình độ tiếng Anh](https://github.com/byoungd/English-level-up-tips).
+Xin chào bạn — chào mừng bạn đến với [Cẩm nang nâng cao trình độ tiếng Anh](https://github.com/harperpets20-lang/English-level-up-tips).
 
 Khi ánh mắt bạn gặp những dòng chữ này, tôi chân thành hy vọng rằng đây không chỉ là một hành trình gian khó để chinh phục tiếng Anh, mà còn là một cuộc phiêu lưu kỳ diệu mở ra cánh cửa trí tuệ. Mong rằng những trang sách nhỏ này sẽ trở thành sợi dây cộng hưởng tâm hồn giữa bạn và tôi, tấu lên bản nhạc tuyệt vời của việc học ngôn ngữ.
 
