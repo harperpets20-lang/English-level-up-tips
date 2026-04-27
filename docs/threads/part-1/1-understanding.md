@@ -20,7 +20,7 @@ Chương này bàn về nhận thức — những điều bạn nên suy nghĩ t
 
 Trước tiên, chúng ta nên hiểu rằng **tiếng Anh là một ngôn ngữ được sử dụng cực kỳ rộng rãi**. Điều này có thể thấy qua phân bố ngôn ngữ nội dung trên Wikipedia:
 
-![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
+![Phân bố ngôn ngữ nội dung trên Wikipedia](../../assets/WebsiteContentLanguages.svg)
 
 Tiếng Anh, với tư cách là ngôn ngữ được sử dụng rộng rãi nhất toàn cầu, bao phủ gần như mọi khía cạnh của cuộc sống.
 

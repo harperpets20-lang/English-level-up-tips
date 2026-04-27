@@ -198,9 +198,9 @@ Bạn có thể kết hợp AI vào phương pháp trong chương này:
 
 ## Sách từ vựng đề xuất
 
-- [![Sổ tay cách dùng từ thông dụng tiếng Anh](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
-- [![17 ngày chinh phục từ vựng GRE](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
-- [![Merriam-Webster's Vocabulary Builder](https://img3.doubanio.com/lpic/s4339900.jpg)](https://book.douban.com/subject/4759840/)
+- [![Sổ tay cách dùng từ thông dụng tiếng Anh](../../assets/book-english-usage.jpg)](https://book.douban.com/subject/5038844/)
+- [![17 ngày chinh phục từ vựng GRE](../../assets/book-gre-vocab.jpg)](https://book.douban.com/subject/1803504/)
+- [![Merriam-Webster's Vocabulary Builder](../../assets/book-merriam-webster.jpg)](https://book.douban.com/subject/4759840/)
 
   Cuốn này phù hợp cho người có nền tảng từ vựng nhất định (khoảng 7000), cũng là cuốn sách được đề xuất nhiều khi ôn thi TOEFL và GRE, thường gọi là "cuốn sách xanh nhỏ Webster".
   Trong ấn tượng nhiều người, cuốn sách này dường như chỉ dùng để nhớ tiền tố hậu tố, nhưng giá trị thực sự không nằm ở đó.

@@ -63,6 +63,6 @@ Nếu bạn dùng công cụ lọc từ mới trong tài liệu theo quy tắc n
 - [Stack Overflow](https://www.stackoverflow.com/) là nơi tuyệt vời để giải quyết vấn đề kỹ thuật
 
 ## Sách tham khảo đề xuất
-[![Sổ tay tham khảo đọc tiếng Anh](https://img3.doubanio.com/lpic/s4241556.jpg)](https://book.douban.com/subject/4720475/)
+[![Sổ tay tham khảo đọc tiếng Anh](../../assets/book-english-reading.jpg)](https://book.douban.com/subject/4720475/)
 
 Bài tiếp theo: [Nói](5-speaking.md)

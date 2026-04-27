@@ -1,15 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
   <head>
     <meta charset="UTF-8" />
-    <title>English-level-up-tips</title>
+    <title>Cẩm nang nâng cao tiếng Anh | English Level Up Tips</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="English, tips, learning" />
+    <meta name="description" content="Cẩm nang học tiếng Anh toàn diện: từ vựng, ngữ pháp, nghe, nói, đọc, viết. Flashcard, quiz, luyện phát âm và theo dõi tiến độ." />
+    <meta property="og:title" content="Cẩm nang nâng cao tiếng Anh" />
+    <meta property="og:description" content="Học tiếng Anh hiệu quả với flashcard, quiz, luyện phát âm và bài tập ngữ pháp tương tác." />
+    <meta property="og:type" content="website" />
     <meta
       name="keywords"
-      content="An advanced guide to learn English which might benefit you a lot."
+      content="học tiếng anh, english learning, từ vựng, ngữ pháp, phát âm, IELTS, TOEFL, flashcard, quiz"
     />
-    <meta name="author" content="byoungd" />
+    <meta name="author" content="harperpets20" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
@@ -61,6 +65,28 @@
         border: none;
         height: 75vh;
         width: 100%;
+      }
+      /* Learning tools styles */
+      #flashcard-app button:hover, #quiz-app button:hover,
+      #pronunciation-app button:hover, #grammar-app button:hover,
+      #progress-app button:hover {
+        opacity: 0.9;
+        transform: translateY(-1px);
+        transition: all 0.2s;
+      }
+      #flashcard-app select, #quiz-app select,
+      #pronunciation-app select, #grammar-app select {
+        outline: none;
+      }
+      #flashcard-app select:focus, #quiz-app select:focus,
+      #pronunciation-app select:focus, #grammar-app select:focus {
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102,126,234,0.2);
+      }
+      @media (max-width: 600px) {
+        #flashcard #card-inner { width: 100% !important; }
+        #pron-card { padding: 20px !important; }
+        #pron-word { font-size: 24px !important; }
       }
     </style>
   </head>

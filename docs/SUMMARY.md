@@ -21,6 +21,14 @@
 * [Câu chuyện của tôi](threads/part-2/my-story.md)
 * [Tuần 1](threads/part-4/week-1.md)
 
+### Công cụ luyện tập
+
+* [Flashcard Từ Vựng](threads/tools/flashcard.md)
+* [Quiz Trắc Nghiệm](threads/tools/quiz.md)
+* [Luyện Phát Âm](threads/tools/pronunciation.md)
+* [Bài Tập Ngữ Pháp](threads/tools/grammar.md)
+* [Tiến Độ Học Tập](threads/tools/progress.md)
+
 ### Bảng từ vựng (Word Lists)
 
 * [Common](threads/word-list/Common.md)
