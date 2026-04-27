@@ -1,222 +1,216 @@
-﻿# 单词篇
+# Từ vựng
 
-单词是构成一门语言的基石。当你学习一门语言的时候，一定要从基础开始，没有基础，你就无法更好更快更轻松地学习。
-想要跳过单词进行学习，会让自己在今后的学习中花费（更准确的说应该是**浪费**）更多的时间，循序渐进，才是学习英语的好方法。
-**词汇量具有从量变到质变的显著特征，当你掌握的单词数量达到一个分水岭的量之后你会发现学习英语变得异常轻松起来。
-得益于语境的帮助，你可以推断出大部分生词的意思，从而可以利用更优秀的原版英语学习材料让学英语如虎添翼，比如：经济学人，英文原著**。
-首先来看看一下英语单词的分布：
+Từ vựng là nền tảng của một ngôn ngữ. Khi bạn học một ngôn ngữ, nhất định phải bắt đầu từ cơ bản — không có nền tảng, bạn không thể học tốt hơn, nhanh hơn, nhẹ nhàng hơn.
+Muốn bỏ qua từ vựng để học sẽ khiến bạn **lãng phí** nhiều thời gian hơn trong tương lai. Từng bước một mới là cách học tiếng Anh đúng đắn.
+**Vốn từ vựng có đặc điểm chuyển đổi từ lượng sang chất rõ rệt. Khi số lượng từ bạn nắm vững đạt đến một ngưỡng nhất định, bạn sẽ thấy việc học tiếng Anh trở nên dễ dàng lạ thường.
+Nhờ sự hỗ trợ của ngữ cảnh, bạn có thể suy ra nghĩa của hầu hết từ mới, từ đó sử dụng các tài liệu tiếng Anh gốc chất lượng hơn, ví dụ: The Economist, sách nguyên bản tiếng Anh**.
+Trước tiên hãy xem phân bố từ vựng tiếng Anh:
 
 ![OCE Artboard@2x.png](../../assets/OCE%20Artboard@2x.png)
 
-> 原图片来源于牛津英文语料库（OEC），我用 sketch 对照着做了一份，sketch 文件在 repo 的 assets 文件夹内
+> Hình ảnh gốc từ Oxford English Corpus (OEC), tôi dùng Sketch làm lại một bản, file Sketch nằm trong thư mục assets của repo
 
-从这张图可以得出的简单信息是：
+Từ biểu đồ này có thể rút ra thông tin đơn giản:
 
-- 1000 词汇量就能让你理解约 75%的英语内容
-- 7000 词汇量是一个关键的分水岭（只需 7 千单词就能理解接近 90%的内容是不是很激动？）
-- 背单词的回报率是递减的
+- 1000 từ vựng cho phép bạn hiểu khoảng 75% nội dung tiếng Anh
+- 7000 từ vựng là ngưỡng quan trọng (chỉ cần 7 nghìn từ là hiểu gần 90% nội dung — có phấn khích không?)
+- Tỷ suất hoàn vốn của việc học từ là giảm dần
 
-那就先定个小目标：先试试 7000 个单词。拆解一下，每天 40 个，在不遗忘的理想情况下只需要 175 天！
+Vậy hãy đặt mục tiêu nhỏ trước: thử 7000 từ. Chia ra, mỗi ngày 40 từ, trong trường hợp lý tưởng không quên thì chỉ cần 175 ngày!
 
-### 视觉 vs 听觉
+### Thị giác vs Thính giác
 
-在开始扩充词汇量之前，希望你能花点时间了解自己的学习特点。视觉型学习者与听觉型学习者，在学习英语的方法上有着较大的差异。
-视觉型学习者通过将单词的 _视觉化_ 的方式去记忆单词，比如将单词与 _图像/视频_ 绑定，甚至是将 单词本身 看做是一个 _视觉图形/符号_ ，有些视觉型学习者可以把单词写几遍就记住了。
-视觉对于增强人的记忆有着神奇的效果，同时也有一定的负面作用。
-这体现在当你看到某个图像的时候可能迅速的联想到某个单词，可是当你脱离这个图像的时候你居然完全不知道这个单词是什么意思。
-（有很大一部分背单词的软件采用图片卡的形式，当你对着软件给出的图片进行复习时，你会觉得你记住了这个单词。然而实际情况是你记住了这个图片，这个图片与单词之间还有一层的映射关系，你过多的将注意力放在了图片上面，从而忽略了图片本身想要表达的单词。）
-我想给出建议是，视觉化背单词应该采用 _抽象_ 的方法，将单词对应的视觉信息抽象成你理解的事物。
-举个例子:'cat' => '猫';单词软件会给你提供某个具体的关于猫的图片，如
+Trước khi bắt đầu mở rộng vốn từ, hy vọng bạn dành thời gian tìm hiểu đặc điểm học tập của mình. Người học kiểu thị giác và người học kiểu thính giác có sự khác biệt khá lớn trong phương pháp học tiếng Anh.
+
+Người học kiểu thị giác ghi nhớ từ bằng cách _hình ảnh hóa_, ví dụ gắn từ với _hình ảnh/video_, thậm chí coi bản thân từ đó như một _ký hiệu/đồ họa thị giác_. Một số người học kiểu thị giác chỉ cần viết từ vài lần là nhớ.
+Thị giác có hiệu quả kỳ diệu trong việc tăng cường trí nhớ, nhưng cũng có mặt tiêu cực. Khi bạn nhìn thấy hình ảnh nào đó, có thể nhanh chóng liên tưởng đến từ vựng, nhưng khi tách khỏi hình ảnh đó, bạn lại hoàn toàn không biết từ đó nghĩa là gì.
+(Nhiều ứng dụng học từ sử dụng thẻ hình ảnh, khi ôn tập với hình ảnh ứng dụng cung cấp, bạn cảm thấy mình nhớ từ đó. Nhưng thực tế bạn nhớ hình ảnh, giữa hình ảnh và từ vựng còn có một lớp ánh xạ, bạn tập trung quá nhiều vào hình ảnh mà bỏ qua từ vựng mà hình ảnh muốn diễn đạt.)
+Gợi ý của tôi là, hình ảnh hóa từ vựng nên dùng phương pháp _trừu tượng_, chuyển thông tin thị giác tương ứng với từ vựng thành sự vật bạn hiểu.
+Ví dụ: 'cat' => 'mèo'; ứng dụng từ vựng sẽ cung cấp hình ảnh cụ thể về mèo, như:
 
 ![cat.jpg](https://ooo.0o0.ooo/2017/06/01/592f5682b7c4e.jpg)
 
-但是这可能并不是你理解的猫，因为在其实你的脑海里有一个你抽象后的形象代表猫，他可能是这样的:
+Nhưng đây có thể không phải hình ảnh mèo trong đầu bạn, vì thực ra trong não bạn có một hình ảnh trừu tượng đại diện cho mèo, nó có thể thế này:
 
 ![cat-2.jpeg](https://ooo.0o0.ooo/2017/06/01/592f576499947.jpeg)
 
-也可能是这样的:
+Cũng có thể thế này:
 
 ![cat-cartoons.jpeg](https://ooo.0o0.ooo/2017/06/01/592f58e70bd20.jpeg)
 
-也可能是这样的:
+Cũng có thể thế này:
 
 ![cat-s.jpg](https://ooo.0o0.ooo/2017/06/01/592f5966b14cb.jpg)
 
-也可能是这样的:
+Cũng có thể thế này:
 
 ![cat-ss.jpg](https://ooo.0o0.ooo/2017/06/01/592f59e1f2b57.jpg)
 
-甚至是这样的（他会是你所能手绘出来的图像）:
+Thậm chí thế này (đây là hình ảnh bạn có thể vẽ tay):
 
 ![cat-sss.jpg](https://ooo.0o0.ooo/2017/06/01/592f5a1aa430f.jpg)
 
-当然也有可能是这样的:
+Tất nhiên cũng có thể thế này:
 
 ![cat-girl.jpg](https://ooo.0o0.ooo/2017/06/01/592f5b1774ed2.jpg)
 
-将单词通过 _抽象_ 的方法去视觉化可以更好帮助你将单词与单词的涵义联系起来。
+Hình ảnh hóa từ vựng bằng phương pháp _trừu tượng_ có thể giúp bạn liên kết từ vựng với ý nghĩa của nó tốt hơn.
 
 ---
 
-听觉型学习者在学习语言的时候有着天然的优势，通过大量的 _听_ 来学习是更接近自然的语言学习的。如果你发现你属于听觉型学习者，那么你很幸运，你在学习英语方面会比常人轻松很多。
-然后大部分听觉型学习者并不了解听觉型学习的正确方法，在他们意识到自己属于听觉型学习者的时候很可能已经养成的视觉型学习的习惯。
-听觉型学习者想要充分利用自身优势的话，必须掌握 _发音_ 方面的知识。一旦你拥有了良好的 _发音_ 基础，你就可以将听到的大部分内容转化为拼写正确的单词，然后通过感兴趣的语音内容让学英语如虎添翼。
-所以如果你觉得自己可能属于听觉型学习者的话，一定不要错过本指南的 _发音篇_ 与 _听力篇_。
+Người học kiểu thính giác có lợi thế tự nhiên khi học ngôn ngữ, học thông qua lượng lớn _nghe_ là cách tiếp cận gần nhất với việc học ngôn ngữ tự nhiên. Nếu bạn phát hiện mình thuộc kiểu thính giác, bạn rất may mắn, việc học tiếng Anh sẽ nhẹ nhàng hơn nhiều so với người thường.
+Tuy nhiên, phần lớn người học kiểu thính giác không biết phương pháp đúng, khi nhận ra mình là kiểu thính giác có thể đã quen với thói quen học kiểu thị giác.
+Người học kiểu thính giác muốn tận dụng lợi thế phải nắm kiến thức về _phát âm_. Khi bạn có nền tảng _phát âm_ tốt, bạn có thể chuyển đổi hầu hết nội dung nghe được thành từ vựng chính tả đúng, sau đó sử dụng nội dung âm thanh thú vị để học tiếng Anh hiệu quả.
+Nên nếu bạn nghĩ mình có thể thuộc kiểu thính giác, nhất định đừng bỏ lỡ phần _Phát âm_ và _Nghe_ trong cẩm nang này.
 
-无论你是听觉型还是视觉型学习者，在学习单词的时候，在条件允许的情况下，请务必用词典听听单词的发音！
+Dù bạn là kiểu thính giác hay thị giác, khi học từ vựng, trong điều kiện cho phép, hãy nhớ dùng từ điển nghe phát âm của từ!
 
-> 国内很多技术类教学视频中蹩脚的单词发音真的令人很出戏，而实际上互联网充斥着大量的免费教学视频，他们以英文的形式存在，讲师水平高，发音准确，而且教学内容与时俱进。
+> Nhiều video dạy lập trình trong nước có phát âm từ vựng rất kỳ quặc, trong khi Internet có rất nhiều video dạy miễn phí chất lượng cao bằng tiếng Anh, giảng viên giỏi, phát âm chuẩn, nội dung cập nhật.
 
-Ronnie 老师有一篇关于记单词的视频，[YouTube 链接](https://www.youtube.com/watch?v=JuoqE2lpRUM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQyMDgzNg==.html)
+Cô Ronnie có một video về ghi nhớ từ vựng, [Liên kết YouTube](https://www.youtube.com/watch?v=JuoqE2lpRUM)
 
-### 两种背单词的方法
+### Hai phương pháp học từ vựng
 
-#### 第一种 每天适量背诵
+#### Phương pháp 1: Học lượng vừa phải mỗi ngày
 
-##### 优点：
+##### Ưu điểm:
 
-- 时间分配灵活且占用短（适合利用地铁时间、睡前等零散时间）
-- 负担轻
-- 不易产生挫败感
-- 适用于学习核心词汇
+- Linh hoạt phân bổ thời gian và chiếm ít thời gian (phù hợp lúc đi tàu điện, trước khi ngủ)
+- Gánh nặng nhẹ
+- Ít cảm giác thất bại
+- Thích hợp cho từ vựng cốt lõi
 
-##### 缺点：
+##### Nhược điểm:
 
-由于 **背单词的回报率是递减的且通常没有有效的正反馈** ，实际情况往往是背到 800 个选择放弃，背到 1000 个选择放弃，背到 1001 个选择放弃。
+Do **tỷ suất hoàn vốn học từ giảm dần và thường không có phản hồi tích cực hiệu quả**, thực tế thường là học đến 800 từ thì bỏ, 1000 từ thì bỏ, 1001 từ thì bỏ.
 
-#### 第二种 超量输入
+#### Phương pháp 2: Nhập liệu siêu lượng
 
-通过背诵大量的单词并快速复习，遗忘率虽然相对于定量背诵高，但是可以以量取胜。
-比如:一天背 20 个词，一个月能背 600 个，假设形成长期记忆的占 80%，那最后能记住的便是 480 个。
-但是如果我用相同时间，每天快速看 100 个词，一个月能看 3000 个。假设能记住 30%，最后能记住 900 个，远远大于第一种方式。
-适用于在 1000~7000 词汇量这个学习阶段。
+Bằng cách học lượng lớn từ vựng và ôn tập nhanh, tỷ lệ quên dù cao hơn so với học định lượng, nhưng có thể thắng bằng số lượng.
+Ví dụ: mỗi ngày học 20 từ, một tháng học 600 từ, giả sử 80% hình thành trí nhớ dài hạn, cuối cùng nhớ được 480 từ.
+Nhưng nếu dùng cùng thời gian, mỗi ngày lướt nhanh 100 từ, một tháng lướt 3000 từ. Giả sử nhớ được 30%, cuối cùng nhớ 900 từ, lớn hơn nhiều so với cách đầu.
+Phù hợp cho giai đoạn vốn từ từ 1000~7000.
 
-> 当你的词汇量在超过 7000 的时候，你应该具备了通过词法和语境去学习'新的单词'的技能，具体的做法会在以后的章节详解。
-> 这两种方法的具体适用情况请根据个人学习习惯来定。
+> Khi vốn từ vượt 7000, bạn nên có khả năng học 'từ mới' qua từ pháp và ngữ cảnh, cách làm cụ thể sẽ được giải thích chi tiết ở các chương sau.
+> Hai phương pháp này áp dụng tùy theo thói quen học cá nhân.
 
-### 背单词的技巧
+### Mẹo học từ vựng
 
-- 重复，重复，重复 （无他，唯手熟尔）
-- 使用小纸条、便签 （将单词放在可以经常看到的地方，时不时瞥一眼）
-- 做图像标记 （可以给狗狗做个简笔画）
-- 单词搭配、造句 （语境不仅可以帮你记忆还有助于你更好地使用单词）
-- **大声** 朗读 （还记得某阳疯狂英语么）
-- 将部分单词赋予 **特殊意义**（比如 机器学习、编程、女朋友等）
+- Lặp lại, lặp lại, lặp lại (không gì khác, chỉ là quen tay)
+- Dùng giấy nhớ, sticker (đặt từ ở nơi thường xuyên nhìn thấy, thỉnh thoảng liếc qua)
+- Đánh dấu hình ảnh (có thể vẽ phác họa cho chú cún)
+- Kết hợp từ, đặt câu (ngữ cảnh không chỉ giúp ghi nhớ mà còn giúp sử dụng từ tốt hơn)
+- Đọc **to** (còn nhớ phương pháp Crazy English không?)
+- Gắn **ý nghĩa đặc biệt** cho một số từ (ví dụ machine learning, lập trình, bạn gái, v.v.)
 
-### 艾宾浩斯记忆曲线
+### Đường cong trí nhớ Ebbinghaus
 
-人的记忆周期分为短期记忆和长期记忆，记住一个单词指的是形成长期记忆。
-遗忘曲线（Forgetting curve）是用于表述记忆中的中长期记忆的遗忘率的一种曲线。
-这一曲线最早由心理学家赫尔曼·艾宾浩斯通过自己的实验提出。在这一实验中，艾宾浩斯使用了一些毫无意义的字母组合。通过记忆这些字母组合，并在一系列时间间隔后检查遗忘率，得到了这一曲线。
-因此，这一曲线又叫[艾宾浩斯遗忘曲线](https://zh.wikipedia.org/wiki/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF)。
+Trí nhớ con người chia thành ngắn hạn và dài hạn, nhớ một từ nghĩa là hình thành trí nhớ dài hạn.
+Đường cong quên lãng (Forgetting curve) dùng để biểu thị tỷ lệ quên trong trí nhớ trung và dài hạn.
+Đường cong này lần đầu được nhà tâm lý học Hermann Ebbinghaus đề xuất qua thực nghiệm của ông. Trong thực nghiệm này, Ebbinghaus sử dụng các tổ hợp chữ cái vô nghĩa. Qua ghi nhớ các tổ hợp này và kiểm tra tỷ lệ quên sau các khoảng thời gian khác nhau, ông có được đường cong này.
+Vì vậy, đường cong này còn gọi là [Đường cong quên lãng Ebbinghaus](https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_cong_qu%C3%AAn).
 
-![艾宾浩斯记忆曲线](https://upload.wikimedia.org/wikipedia/commons/4/4e/ForgettingCurve.svg)
+![Đường cong trí nhớ Ebbinghaus](https://upload.wikimedia.org/wikipedia/commons/4/4e/ForgettingCurve.svg)
 
-该曲线表明：遗忘进程是不均衡的，在识记的最初遗忘很快，以后逐渐缓慢，到了相当的时间，几乎就不再遗忘了，也就是遗忘的发展是“先快后慢”。
-遗忘的进程不仅受时间因素的制约，也受其他因素的制约。学生最先遗忘的是没有重要意义的、不感兴趣、不需要的材料。不熟悉的比熟悉的遗忘的要早。一般记住后，在 5 分钟后重复一遍，20 分钟后再重复一遍，1 小时后，12 小时后，1 天后，2 天后，5 天后，8 天后，14 天后就会记得很牢：
+Đường cong cho thấy: quá trình quên không đều, ban đầu quên rất nhanh, sau đó dần chậm lại, đến một thời gian nhất định gần như không quên nữa — tức là quên "nhanh trước chậm sau".
+Quá trình quên không chỉ bị chi phối bởi yếu tố thời gian mà còn bởi các yếu tố khác. Học sinh quên trước tiên những tài liệu không có ý nghĩa quan trọng, không hứng thú, không cần thiết. Điều chưa quen thuộc quên sớm hơn điều quen thuộc. Thông thường sau khi nhớ, lặp lại sau 5 phút, 20 phút, 1 giờ, 12 giờ, 1 ngày, 2 ngày, 5 ngày, 8 ngày, 14 ngày sẽ nhớ rất lâu:
 
-#### 先把单词比看成简单的 _键值对_
+#### Trước tiên coi từ vựng như _cặp khóa-giá trị_ đơn giản
 
-'英语单词'=>'对应的汉语释义（更多的情况下是数组）'，尝试直接记忆这样键值对：
+'Từ tiếng Anh'=>'Nghĩa tiếng Việt tương ứng (thường là mảng)', thử ghi nhớ trực tiếp các cặp khóa-giá trị:
 
-- 第一个记忆周期是 5 分钟 （早上花五分钟的时间学习 10 个新词试试）
-- 第二个记忆周期是 30 分钟 （半小时后，先花 5 分钟去复习刚才学习的 10 个新词，然后再花 5 分钟的时间去学习 10 个新词）
-- 第三个记忆周期是 12 小时 （睡前再花 15 分钟左右的时间来复习一下今天学习的 20 个单词吧）
-  > 这三个记忆周期属于短期记忆的范畴(学习与复习所用的时间只是一个大概的数值，请根据自己的习惯来调整)
+- Chu kỳ ghi nhớ thứ 1 là 5 phút (sáng dành 5 phút học 10 từ mới thử xem)
+- Chu kỳ ghi nhớ thứ 2 là 30 phút (nửa giờ sau, dành 5 phút ôn 10 từ vừa học, rồi 5 phút học 10 từ mới)
+- Chu kỳ ghi nhớ thứ 3 là 12 giờ (trước khi ngủ dành khoảng 15 phút ôn lại 20 từ đã học hôm nay)
+  > Ba chu kỳ này thuộc phạm vi trí nhớ ngắn hạn (thời gian học và ôn chỉ là số ước lượng, hãy điều chỉnh theo thói quen của bạn)
 
-> 下面几个属于关键的周期:
+> Các chu kỳ tiếp theo là then chốt:
 
-- 第四个记忆周期是 1 天
-- 第五个记忆周期是 2 天
-- 第六个记忆周期是 4 天
-- 第七个记忆周期是 7 天
-- 第八个记忆周期是 15 天
+- Chu kỳ ghi nhớ thứ 4 là 1 ngày
+- Chu kỳ ghi nhớ thứ 5 là 2 ngày
+- Chu kỳ ghi nhớ thứ 6 là 4 ngày
+- Chu kỳ ghi nhớ thứ 7 là 7 ngày
+- Chu kỳ ghi nhớ thứ 8 là 15 ngày
 
-以上的 8 个周期应用于背单词，作为一个大的背词的循环的 8 个复习点，可以最大程度的提高背单词的效率。所以，制定一个记忆计划，利用记忆曲线的规律，去复习单词，从而形成长期记忆。用 14 天的时间试试吧，我想结果会让你惊讶的。
+8 chu kỳ trên áp dụng cho học từ, là 8 điểm ôn tập trong một vòng lớn học từ, có thể tối đa hóa hiệu quả. Vì vậy, hãy lập kế hoạch ghi nhớ, sử dụng quy luật đường cong trí nhớ để ôn từ, hình thành trí nhớ dài hạn. Thử trong 14 ngày, tôi nghĩ kết quả sẽ khiến bạn ngạc nhiên.
 
-#### 举个我个人实战的例子：
+#### Ví dụ thực tế của cá nhân tôi:
 
-高中时具体的做法是：因为当时学校是 10 本书一起发下来的，所以我就花了大概 3 节课的时间把这 10 本书的所有单词过一遍，然后把记不住的全部誊抄下来。
-然后我就拥有了一个单词本，之后就经常翻单词本咯。
-每一次复习，如果某个单词确定自己掌握了，形成了长期记忆，那就将这个单词从单词本中划掉。
-你甚至可以在单词附近做一些记号，比如用 三角形 代表"这是个有趣的单词"，圆 代表"这是最近看的某本书或某个视频里面的"，耳朵 符号表示"发音比较没把握"等：
+Thời trung học, cách làm cụ thể là: vì trường phát cùng lúc 10 cuốn sách, nên tôi dành khoảng 3 tiết để lướt qua tất cả từ vựng trong 10 cuốn, rồi chép lại tất cả từ không nhớ được.
+Thế là tôi có một sổ từ vựng, sau đó thường xuyên lật xem.
+Mỗi lần ôn tập, nếu xác nhận đã nắm vững một từ, hình thành trí nhớ dài hạn, thì gạch bỏ từ đó.
+Bạn thậm chí có thể đánh dấu gần từ, ví dụ dùng tam giác nghĩa "đây là từ thú vị", hình tròn nghĩa "gặp trong sách hoặc video gần đây", ký hiệu tai nghĩa "phát âm chưa chắc chắn", v.v.:
 
-![单词本示意图.jpg](https://ooo.0o0.ooo/2017/06/05/593516103b8a9.jpg)
+![Minh họa sổ từ vựng](https://ooo.0o0.ooo/2017/06/05/593516103b8a9.jpg)
 
-这个习惯我一直保留至今(从 2010 年 12 开始)，只不过我不再用纸质的本子，而是将其同步到了词典软件上，每天午休期间和晚上健身后翻翻。
-我搭配使用上面介绍的两种背单词的方法，因为当你的单词本单词达到 500 甚至更多的时候，你需要尽可能复习更多的单词。
-不然就准备两本词典，经常翻吧。
-![字典](../../assets/dict.JPG)
+Thói quen này tôi giữ đến nay (từ tháng 12/2010), chỉ là không dùng sổ giấy nữa mà đồng bộ lên ứng dụng từ điển, mỗi ngày lật xem vào giờ nghỉ trưa và sau khi tập gym.
+Tôi kết hợp hai phương pháp học từ nêu trên, vì khi sổ từ đạt 500 thậm chí nhiều hơn, bạn cần ôn lại càng nhiều từ càng tốt.
+Nếu không thì chuẩn bị hai cuốn từ điển, thường xuyên lật nhé.
+![Từ điển](../../assets/dict.JPG)
 
-> 厚重的字典携带起来是极为不便的，还是给自己准备一套顺手的词典软件吧。
-> 图中两本词典我用了很久，已经坏掉了。
+> Từ điển dày nặng rất bất tiện khi mang theo, hãy chuẩn bị cho mình một bộ phần mềm từ điển tiện dụng.
+> Hai cuốn từ điển trong ảnh tôi dùng rất lâu, đã hỏng rồi.
 
-## 使用云单词本
+## Sử dụng sổ từ vựng đám mây
 
-**云单词本的作用是集中管理生词以便随时复习!**
+**Tác dụng của sổ từ vựng đám mây là quản lý tập trung từ mới để ôn tập bất cứ lúc nào!**
 
-无论是在哪里遇到的生词，请一定要集中放到一个可以多终端同步的生词本里，不然之后你去哪找那些遇见的生词呢？
-至于我使用的是哪个词典软件，就不打广告了，只要是拥有多端同步的 app 对我而言都差不多。放张截图：
+Dù gặp từ mới ở đâu, nhất định phải tập trung vào một sổ từ có thể đồng bộ đa thiết bị, nếu không sau này bạn tìm những từ mới gặp ở đâu?
+Còn về ứng dụng từ điển tôi dùng, không quảng cáo ở đây, miễn là app có đồng bộ đa thiết bị thì đều được. Chia sẻ ảnh chụp:
 
-![单词本截图.png](../../assets/word-list-app.png)
+![Ảnh chụp sổ từ vựng](../../assets/word-list-app.png)
 
-你可以看到，有些单词就算复习了 7 年，还是不敢确定自己是完全记住的。
+Bạn có thể thấy, một số từ dù ôn tập 7 năm vẫn không dám chắc mình nhớ hoàn toàn.
 
-#### 把单词当成 _对象_
+#### Coi từ vựng như _đối tượng_
 
-> 如果你并不了解 _面向对象_ 的概念可以选择跳过本小节或者先去了解相关的概念
+> Nếu bạn không hiểu khái niệm _hướng đối tượng_, có thể bỏ qua phần này hoặc tìm hiểu trước
 
-你可能会发现有些单词是在一些'基础单词'之上经过'特定的规则进行变化'得到的，这和面向对象编程的思想有着异曲同工之妙。
-我们可以把这种特性看成是 "继承"与"多态"，那么我们要学习的其实是 _扩展的方法_，而不是将这些变化后的单词当成是新的单词来背诵。
+Bạn có thể phát hiện một số từ được tạo ra từ 'từ cơ bản' theo 'quy tắc biến đổi nhất định', giống với tư tưởng lập trình hướng đối tượng.
+Chúng ta có thể coi đặc tính này như "kế thừa" và "đa hình", vậy điều cần học thực ra là _phương pháp mở rộng_, chứ không phải coi các từ biến đổi như từ mới để học thuộc.
 
-> 单词学习与背单词并不是等价的，这意味着我们可以采用更好的方法去学习单词
+> Học từ vựng và học thuộc từ không phải là tương đương, nghĩa là chúng ta có thể dùng phương pháp tốt hơn để học từ
 
-## Anki 背单词软件
+## Phần mềm Anki
 
-[Anki 是一款多平台的背单词 app](https://apps.ankiweb.net/)，Anki 使记忆变得更加容易，它可以一个自定义多功能的记忆方式，减少学习时间，提升你的学习容量，提高学习效率。
+[Anki là ứng dụng học từ đa nền tảng](https://apps.ankiweb.net/), Anki giúp ghi nhớ dễ dàng hơn, với phương pháp ghi nhớ tùy chỉnh đa chức năng, giảm thời gian học, tăng dung lượng học và nâng cao hiệu quả.
 
-为了帮助大家更方便地背诵高频词汇，在此分享一份「麦克米伦 7000 词汇」Anki 卡（感谢 赛门喵 Simon 的优化），特色如下：
+Để giúp mọi người học từ vựng thường dùng thuận tiện hơn, chia sẻ bộ thẻ Anki "Macmillan 7000 từ vựng" (cảm ơn Simon đã tối ưu), đặc điểm:
 
-- 添加音标
-- 添加例句
-- 添加图片
-- 添加例句翻译
+- Thêm phiên âm
+- Thêm câu ví dụ
+- Thêm hình ảnh
+- Thêm bản dịch câu ví dụ
 
-链接: https://pan.baidu.com/s/1i5OLIIT 密码: jm4k
+Liên kết: https://pan.baidu.com/s/1i5OLIIT Mật khẩu: jm4k
 
-因为上面卡牌包制作时间久远，在一些移动平台会出现[#76](https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76)问题，更新如下：
+## Dùng AI hỗ trợ học từ vựng (bổ sung 2025)
 
-- 修改了词牌样式，减小字号，调整背面答案字段顺序等，以适配移动端应用
-- 通过[Localize Media](https://ankiweb.net/shared/info/1293255374)插件离线所有图片等资源。
+Các nguyên tắc nêu ở đầu chương vẫn áp dụng năm 2025: **từ vựng phải học trong ngữ cảnh**, chứ không chỉ học thuộc cặp "từ=nghĩa". Điểm khác biệt là bây giờ bạn có thêm công cụ tiện lợi — AI đối thoại (như ChatGPT), giúp bạn tạo ngữ cảnh và bài tập nhanh hơn, nhưng việc ghi nhớ vẫn phải do chính bạn thực hiện.
 
-## 借助 AI 辅助记单词（2025 补充）
+Bạn có thể kết hợp AI vào phương pháp trong chương này:
 
-本章前面讲的原则在 2025 年依然适用：**单词要放在语境里学**，而不是只背「单词=中文释义」的键值对。不同的是，现在你多了一件趁手的工具——对话式 AI（如 ChatGPT 等），可以帮你更快地生成语境和练习，但记忆这件事仍然只能由你自己完成。
+- Tạo câu ví dụ và đoạn văn tự nhiên: đưa 10-20 từ hôm nay cần học cho AI, nhờ nó viết đoạn văn hoặc đoạn hội thoại chứa các từ đó, kèm 3-5 câu hỏi hiểu, buộc bạn thực sự hiểu các từ trong ngữ cảnh.
+- So sánh từ đồng nghĩa / kết hợp từ: nhờ AI liệt kê các kết hợp thường gặp, từ đồng nghĩa và từ dễ nhầm của một từ nào đó, kèm bài tập điền chỗ trống hoặc sửa lỗi, làm xong nhờ giải thích từng câu.
+- Kiểm tra và đánh giá: gửi các từ bạn đánh dấu "luôn không nhớ" trong sổ từ vựng đám mây hoặc Anki cho AI, nhờ thiết kế bài kiểm tra 10 phút (đặt câu, chọn kết hợp từ, sửa lỗi), làm xong nhờ tổng kết 2-3 pattern bạn hay sai nhất.
 
-你可以这样把 AI 融入本章的方法里：
+> Nếu bạn muốn tích hợp AI vào việc học nghe nói đọc viết một cách có hệ thống, hãy đọc thêm chương "Học với AI" trong cẩm nang này.
 
-- 生成地道例句和短文：把今天要学的 10–20 个单词扔给 AI，让它写一段包含这些词的短文或对话，并另外给出 3–5 个理解问题，逼迫自己在语境中真正理解这些词。
-- 做近义词 / 搭配对比：请 AI 列出某个单词的常见搭配、近义词和易混淆词，并给出填空题或改错题，做完后让它逐题讲解，顺便补充更多例句。
-- 做小测与复盘：把你在云单词本或 Anki 里标记为「总是记不住」的单词发给 AI，请它围绕这些词设计 10 分钟的小测（造句、选搭配、改错），做完之后让它总结你最容易出错的 2–3 个模式。
+## Sách từ vựng đề xuất
 
-> 如果你想系统地把 AI 融入听说读写的学习中，可以配合阅读本指南中的「利用 AI 学习」章节。
-
-## 推荐的单词书
-
-- [![英语常用词疑难用法手册](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
-- [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
+- [![Sổ tay cách dùng từ thông dụng tiếng Anh](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
+- [![17 ngày chinh phục từ vựng GRE](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
 - [![Merriam-Webster's Vocabulary Builder](https://img3.doubanio.com/lpic/s4339900.jpg)](https://book.douban.com/subject/4759840/)
 
-  这本书适合具有一定词汇量基础的人（大约 7000），也是备考托福和 GRE 时被推荐较多的词法书，俗称韦氏小绿书。
-  在很多人的印象里面，韦氏小绿书似乎就是一本用来记词根词缀的书，但这本书真正的价值并不在于此。
-  韦氏小绿书虽然提供了 250 个词根，但这些词根在实用价值上并不大。
-  这本书最大的好处在于提供了一个通过语境记单词的方法。
-  人脑并不擅长记忆分散的没有逻辑联系的事物，只有将单词放在一个个具体的语境中，我们才能理解以及使用它。
-  秉承这一思想，韦氏小绿书对于单词的诠释分为三个部分：英文释义，例句以及作者对于单词的个性化说明。
-  除了别具一格的单词解读之外，韦氏小绿书安排了大量的巩固测试题，而且这些测试并不只是简单考单词的含义，而是考察单词在语境中的具体使用以及对形近词的辨析。
-  在你拥有一定词汇量的时候希望不要错过这本小绿书。
+  Cuốn này phù hợp cho người có nền tảng từ vựng nhất định (khoảng 7000), cũng là cuốn sách được đề xuất nhiều khi ôn thi TOEFL và GRE, thường gọi là "cuốn sách xanh nhỏ Webster".
+  Trong ấn tượng nhiều người, cuốn sách này dường như chỉ dùng để nhớ tiền tố hậu tố, nhưng giá trị thực sự không nằm ở đó.
+  Dù cung cấp 250 gốc từ, giá trị thực tiễn của chúng không lớn.
+  Ưu điểm lớn nhất là cung cấp phương pháp nhớ từ qua ngữ cảnh.
+  Não người không giỏi ghi nhớ những thứ rời rạc không có liên kết logic, chỉ khi đặt từ trong các ngữ cảnh cụ thể, chúng ta mới hiểu và sử dụng được.
+  Theo tư tưởng này, cuốn sách giải thích từ vựng gồm ba phần: nghĩa tiếng Anh, câu ví dụ và giải thích cá nhân của tác giả.
+  Ngoài cách giải từ độc đáo, cuốn sách có lượng lớn bài kiểm tra củng cố, không chỉ kiểm tra nghĩa từ đơn giản mà còn kiểm tra cách sử dụng từ trong ngữ cảnh và phân biệt từ gần giống.
+  Khi bạn có vốn từ nhất định, đừng bỏ lỡ cuốn sách xanh nhỏ này.
 
-> 背单词的时候大多数时候不需要刻意的去记，简单的过一下就行，生词，**生** 词嘛，多过过，自然而然就熟悉了
+> Khi học từ, hầu hết trường hợp không cần cố gắng ghi nhớ, chỉ cần lướt qua, từ mới mà, **mới** lạ, lướt nhiều lần tự nhiên sẽ quen thôi
 
-下一篇：[听力篇](3-listening.md)
-
+Bài tiếp theo: [Nghe](3-listening.md)

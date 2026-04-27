@@ -4,7 +4,7 @@ Tặng riêng cho người tôi từng yêu thương nhất `W.`
 
 > Mỗi người chúng ta đều sống trong quá khứ của riêng mình. Chỉ cần một phút để biết một người, một giờ để thích một người, một ngày để yêu một người — nhưng có thể cần cả đời để quên một người.
 
-Tiếng Việt | [中文](#/) | [English](#/en/)
+Tiếng Việt | [English](#/en/)
 
 # Giới thiệu dự án
 
@@ -44,29 +44,29 @@ Trong cẩm nang này, tôi sẽ cố gắng kết hợp quan điểm chủ quan
 
 ## Trình độ tiếng Anh
 
-![CEFR](../assets/CEFR@2x.png)
+![CEFR](../assets/CEFR-en@2x.svg)
 
 > Hình ảnh tham khảo chính từ [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
 ## Đặc điểm
 
-![Đặc điểm](../assets/feature.svg)
+![Đặc điểm](../assets/feature-vi.svg)
 
 ## Các chương
 
-[![understanding](../assets/understanding@2x.svg)](threads/part-1/1-understanding.md)
+[![nhận thức](../assets/understanding-vi@2x.svg)](threads/part-1/1-understanding.md)
 
-[![vocabulary](../assets/vocabulary@2x.svg)](threads/part-1/2-vocabulary.md)
+[![từ vựng](../assets/vocabulary-vi@2x.svg)](threads/part-1/2-vocabulary.md)
 
-[![listening](../assets/listening@2x.svg)](threads/part-1/3-listening.md)
+[![nghe](../assets/listening-vi@2x.svg)](threads/part-1/3-listening.md)
 
-[![reading](../assets/reading@2x.svg)](threads/part-1/4-reading.md)
+[![đọc](../assets/reading-vi@2x.svg)](threads/part-1/4-reading.md)
 
-[![speaking](../assets/speaking@2x.svg)](threads/part-1/5-speaking.md)
+[![nói](../assets/speaking-vi@2x.svg)](threads/part-1/5-speaking.md)
 
-[![writing](../assets/writing@2x.svg)](threads/part-1/6-writing.md)
+[![viết](../assets/writing-vi@2x.svg)](threads/part-1/6-writing.md)
 
-[![ai](../assets/ai@2x.svg)](threads/part-1/7-ai.md)
+[![ai](../assets/ai-vi@2x.svg)](threads/part-1/7-ai.md)
 
 Chương AI mới đã được cập nhật phiên bản `2026`, trọng tâm không còn chỉ là Prompt chung chung, mà là trả lời có hệ thống hơn:
 
@@ -77,9 +77,9 @@ Chương AI mới đã được cập nhật phiên bản `2026`, trọng tâm k
 
 Nếu bạn muốn biến AI thành máy tăng tốc học tiếng Anh thực sự, chứ không chỉ thỉnh thoảng nhờ dịch vài câu, chương này đáng đọc kỹ.
 
-[![word-list](../assets/word-list@2x.svg)](#/threads/word-list/Common.md)
+[![bảng từ vựng](../assets/word-list-vi@2x.svg)](#/threads/word-list/Common.md)
 
-[![Others@2x.png](../assets/Others@2x.svg)](threads/part-2/x-misc.md)
+[![tản mạn](../assets/Others-vi@2x.svg)](threads/part-2/x-misc.md)
 
 [Câu chuyện của tôi](threads/part-4/my-story.md)
 

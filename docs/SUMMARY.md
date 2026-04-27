@@ -1,28 +1,27 @@
-# Summary
+# Mục lục
 
 * [English](#/en/)
 
-### Part I
+### Phần I
 
-* [1.认知篇](threads/part-1/1-understanding.md)
-* [2.单词篇](threads/part-1/2-vocabulary.md)
-* [3.听力篇](threads/part-1/3-listening.md)
-* [4.阅读篇](threads/part-1/4-reading.md)
-* [5.口语篇](threads/part-1/5-speaking.md)
-* [6.写作篇](threads/part-1/6-writing.md)
-* [7.利用 AI 学习（2026 版）](threads/part-1/7-ai.md)
+* [1. Nhận thức](threads/part-1/1-understanding.md)
+* [2. Từ vựng](threads/part-1/2-vocabulary.md)
+* [3. Nghe](threads/part-1/3-listening.md)
+* [4. Đọc](threads/part-1/4-reading.md)
+* [5. Nói](threads/part-1/5-speaking.md)
+* [6. Viết](threads/part-1/6-writing.md)
+* [7. Tận dụng AI để học (phiên bản 2026)](threads/part-1/7-ai.md)
 
+### Phần II
 
-### Part II
+* [8. Tản mạn](threads/part-2/x-misc.md)
 
-* [8.扯淡篇](threads/part-2/x-misc.md)
+### Phần IV
 
-### Part IV
+* [Câu chuyện của tôi](threads/part-2/my-story.md)
+* [Tuần 1](threads/part-4/week-1.md)
 
-* [我的故事](threads/part-2/my-story.md)
-* [Week 1](threads/part-4/week-1.md)
-
-### 单词表（Word Lists）
+### Bảng từ vựng (Word Lists)
 
 * [Common](threads/word-list/Common.md)
 * [Go](threads/word-list/Go.md)

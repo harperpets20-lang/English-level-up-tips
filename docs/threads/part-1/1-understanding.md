@@ -1,90 +1,90 @@
-﻿# 认知篇
+# Nhận thức
 
-本篇从认知层面，聊聊在开始系统学英语之前，应该先想清楚的一些问题。
-
----
-
-## 本章速览（TL;DR）
-
-- 搞清：**为什么要学英语、到底想要什么**，明确学习目标。
-- 意识到：**被动输入（看、听）远不够**，需要更多“动手、开口、输出”。
-- 学会给自己设定 **合理场景和节奏**，而不是靠透支睡眠、透支身体。
-- 学会**理解并温柔对待自己的情绪**，而不是只用鸡血和内疚驱动。
-- 给自己搭建一个**安全、沉浸的英语环境**，像刷牙一样自然。
-
-> 如果你现在对“学英语”充满内疚、焦虑、拖延，本章会帮你把这些情绪放回合适的位置。
+Chương này bàn về nhận thức — những điều bạn nên suy nghĩ thấu đáo trước khi bắt đầu học tiếng Anh một cách có hệ thống.
 
 ---
 
-## 为什么我们应该学好英语
+## Tóm tắt chương (TL;DR)
 
-首先我们应该明白，**英语是一门使用极其广泛的语言**。这一点可以从维基百科的内容语言分布窥见一二：
+- Hãy làm rõ: **Tại sao phải học tiếng Anh, bạn thực sự muốn gì**, xác định mục tiêu học tập.
+- Nhận ra rằng: **Tiếp nhận thụ động (xem, nghe) chưa đủ**, cần phải "động tay, mở miệng, tạo ra đầu ra" nhiều hơn.
+- Học cách thiết lập **nhịp độ và bối cảnh hợp lý** cho bản thân, thay vì kiệt sức vì thiếu ngủ và bào mòn sức khỏe.
+- Học cách **thấu hiểu và đối xử nhẹ nhàng với cảm xúc của mình**, thay vì chỉ dùng sự cố gắng và cảm giác tội lỗi làm động lực.
+- Xây dựng cho mình một **môi trường tiếng Anh an toàn, đắm chìm**, tự nhiên như đánh răng hàng ngày.
+
+> Nếu bạn đang cảm thấy tội lỗi, lo lắng, trì hoãn với việc "học tiếng Anh", chương này sẽ giúp bạn đặt những cảm xúc đó vào đúng vị trí.
+
+---
+
+## Tại sao chúng ta nên học tiếng Anh tốt
+
+Trước tiên, chúng ta nên hiểu rằng **tiếng Anh là một ngôn ngữ được sử dụng cực kỳ rộng rãi**. Điều này có thể thấy qua phân bố ngôn ngữ nội dung trên Wikipedia:
 
 ![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
 
-英语作为全球使用范围最广的语言，几乎涵盖了人生活的方方面面。
+Tiếng Anh, với tư cách là ngôn ngữ được sử dụng rộng rãi nhất toàn cầu, bao phủ gần như mọi khía cạnh của cuộc sống.
 
-- 无论是简单的信息交流，还是严谨的书籍、论文，英语都占了相当大的比例。
-- 学好英语，就像是打开了一扇通往新世界的门，不再被原有信息渠道所限制，能看到比中文世界更广阔、更丰富的内容。
+- Dù là trao đổi thông tin đơn giản hay sách vở, luận văn nghiêm túc, tiếng Anh đều chiếm một tỷ lệ rất lớn.
+- Học tốt tiếng Anh giống như mở ra một cánh cửa đến thế giới mới, không còn bị giới hạn bởi các kênh thông tin hiện có, có thể tiếp cận nội dung rộng lớn và phong phú hơn.
 
-如果你是互联网从业者，对英语的要求会更高：
+Nếu bạn làm trong ngành công nghệ thông tin, yêu cầu về tiếng Anh còn cao hơn:
 
-- 新技术、新框架、新理念，**第一时间往往以英文形式出现**。
-- 很多不恰当的翻译，会误导我们对技术或概念的理解。
-- 但也正因为我们身处这个领域，更容易接触到优秀工具，让英语学习变得**更高效、更有趣**。
+- Công nghệ mới, framework mới, ý tưởng mới, **thường xuất hiện đầu tiên bằng tiếng Anh**.
+- Nhiều bản dịch không chính xác có thể khiến chúng ta hiểu sai về công nghệ hoặc khái niệm.
+- Nhưng cũng chính vì ở trong lĩnh vực này, chúng ta dễ tiếp cận các công cụ tuyệt vời hơn, giúp việc học tiếng Anh trở nên **hiệu quả hơn, thú vị hơn**.
 
-换句话说，**学好英语，不只是为了考试，而是为了连接一个更大的世界**。
+Nói cách khác, **học tốt tiếng Anh, không chỉ để thi cử, mà là để kết nối với một thế giới rộng lớn hơn**.
 
 ---
 
-## 学习金字塔：为什么要“动起来”
+## Tháp học tập: Tại sao phải "hành động"
 
-美国学者艾德格·戴尔（Edgar Dale）在 1969 年提出过一个著名的“学习金字塔”理论（The Cone of Learning）。理论大意是：在初次学习两个星期后，大脑大约能保留的信息比例大致如下：
+Nhà nghiên cứu người Mỹ Edgar Dale năm 1969 đã đề xuất lý thuyết nổi tiếng "Tháp học tập" (The Cone of Learning). Đại ý là: hai tuần sau lần học đầu tiên, tỷ lệ thông tin não có thể ghi nhớ được đại khái như sau:
 
-- 只通过阅读，记住约 10%
-- 只通过听讲，约 20%
-- 看图片，约 30%
-- 看影像、示范，约 50%
-- 参与讨论、提问、发言，约 70%
-- 做报告、教学、模拟体验、实际操作，约 90%
+- Chỉ đọc, nhớ khoảng 10%
+- Chỉ nghe, khoảng 20%
+- Xem hình ảnh, khoảng 30%
+- Xem video, minh họa, khoảng 50%
+- Tham gia thảo luận, đặt câu hỏi, phát biểu, khoảng 70%
+- Làm báo cáo, giảng dạy, mô phỏng trải nghiệm, thực hành, khoảng 90%
 
 ![ConeofLearning-old.png](../../assets/ConeofLearning-old.png)
 
-这个理论在学界其实存在不少争议，数字未必精准，但它强调的一个**大方向是对的**：
+Lý thuyết này thực ra vẫn còn nhiều tranh luận trong giới học thuật, các con số chưa chắc chính xác, nhưng nó nhấn mạnh một **hướng đi đúng**:
 
-> 被动输入（看、听）远没有主动参与（说、写、讲、用）有效。
+> Tiếp nhận thụ động (xem, nghe) kém hiệu quả hơn nhiều so với tham gia chủ động (nói, viết, giảng, sử dụng).
 
-对于语言学习来说尤为明显：
+Đối với việc học ngôn ngữ điều này đặc biệt rõ ràng:
 
-- 仅仅依靠“读”和“听”，理解往往停留在表层；
-- 真正记得住、用得出，是因为你**查过词、做过笔记、写过句子、说出口**。
+- Chỉ dựa vào "đọc" và "nghe", sự hiểu biết thường dừng ở bề mặt;
+- Thực sự nhớ được, dùng được, là vì bạn **đã tra từ, ghi chú, viết câu, nói ra miệng**.
 
-所以，本指南会不断提醒你：**尽早开始主动输出，不要只停留在看和听**。
+Vì vậy, cẩm nang này sẽ liên tục nhắc bạn: **Hãy bắt đầu tạo đầu ra chủ động sớm nhất có thể, đừng chỉ dừng lại ở xem và nghe**.
 
 ---
 
-## 一个“用力过猛”的失败经历
+## Một trải nghiệm thất bại vì "cố quá"
 
-我们几乎都经历过应试教育的阶段：魔鬼训练、寒窗苦读、起早贪黑。小有成就时志得意满，考砸了就陷入自责和焦虑，甚至有人觉得：学习本来就应该很痛苦。
+Hầu như ai cũng từng trải qua giai đoạn giáo dục ứng thí: luyện tập cường độ cao, đèn sách khuya sớm. Khi đạt thành tích thì tự mãn, thi trượt thì rơi vào tự trách và lo lắng, thậm chí có người nghĩ: học tập vốn dĩ phải đau khổ.
 
-高中时，我在一个学习压力极大的环境中：
+Thời trung học, tôi ở trong một môi trường áp lực học tập cực lớn:
 
-- 舍友们中考分别是全县第一（特招生，学校免掉所有费用，每学期额外 5000 奖学金）、全县第二和全县第八；
-- 全县第一和第二都属于“天才型”，戴着小眼镜，总是一脸好奇，看起来像小学五年级学生；
-- 为了激励自己，我主动找班主任调换座位，让全县第一和我同桌，第二坐在我前面一排。
+- Các bạn cùng phòng lần lượt đạt hạng nhất toàn huyện (học sinh đặc cách, trường miễn toàn bộ học phí, mỗi học kỳ thêm 5000 học bổng), hạng nhì và hạng tám toàn huyện;
+- Hạng nhất và hạng nhì đều thuộc dạng "thiên tài", đeo kính nhỏ, luôn tò mò, trông như học sinh tiểu học;
+- Để tự thúc đẩy bản thân, tôi chủ động xin thầy chủ nhiệm đổi chỗ, để hạng nhất ngồi cùng bàn, hạng nhì ngồi hàng trước.
 
-那段时间，我的状态大概是这样的：
+Trong thời gian đó, trạng thái của tôi đại khái là:
 
-- 每天早上 5:20 起床，到操场开始背诵；
-- 午自习留在教室“学习”，快上课时眯一会；
-- 晚饭总是第一个冲出食堂，用百米冲刺的速度回教室占座学习；
-- 晚自习回宿舍，匆忙洗漱后上床看书，宿舍灯关了就悄悄打开小台灯继续学。
+- Mỗi sáng 5:20 dậy, ra sân vận động bắt đầu đọc bài;
+- Giờ tự học buổi trưa ở lại lớp "học", gần giờ vào lớp thì chợp mắt chút;
+- Bữa tối luôn là người đầu tiên chạy ra khỏi căn tin, chạy nước rút về lớp giành chỗ học;
+- Tối tự học xong về ký túc, rửa mặt vội rồi lên giường đọc sách, tắt đèn phòng rồi lén bật đèn bàn nhỏ tiếp tục học.
 
-我以为自己在“争分夺秒”，实际却是**屡战屡败**。我不断调整心态，愈挫愈勇，但成绩却一路下滑，有一次年级排名掉到 500 多名，几乎绝望。
+Tôi nghĩ mình đang "tranh thủ từng phút", thực tế lại là **thua liên tiếp**. Tôi liên tục điều chỉnh tâm lý, càng thất bại càng cố gắng, nhưng kết quả lại liên tục tụt, có lần xếp hạng toàn khối rơi xuống hơn 500, gần như tuyệt vọng.
 
-我不明白——**我明明这么努力，为什么成绩反而更差？**
+Tôi không hiểu — **Rõ ràng tôi cố gắng như vậy, tại sao kết quả lại tệ hơn?**
 
-反观我的同桌，把刚拿到的奖学金拿去买了笔记本电脑，上课偷偷看美剧，成绩却总是稳定第一。
+Ngược lại, bạn cùng bàn lấy tiền học bổng mới nhận mua laptop, lên lớp lén xem phim Mỹ, kết quả vẫn luôn ổn định hạng nhất.
 
 WHY?
 
@@ -94,258 +94,256 @@ WHY?
 
 ![WHY](../../assets/why.png)
 
-后来我才慢慢看清楚：我犯了一连串非常典型的错误。
+Sau này tôi mới dần nhận ra: tôi đã mắc một chuỗi sai lầm rất điển hình.
 
 ---
 
-## 学习的根本动机：你到底是为了什么在学？
+## Động lực gốc rễ của việc học: Bạn học vì điều gì?
 
-先问自己几个问题：
+Hãy tự hỏi mình vài câu hỏi:
 
-- 我为什么要努力学习？
-- 只是为了考试拿高分吗？
-- 拿到好排名之后，是不是反而更焦虑、怕失去？
-- 从更长远来看，我希望自己的生活变成什么样？
+- Tại sao tôi phải cố gắng học?
+- Chỉ để thi điểm cao?
+- Đạt thứ hạng tốt rồi, có phải lại càng lo lắng, sợ mất đi không?
+- Nhìn xa hơn, tôi mong cuộc sống của mình sẽ như thế nào?
 
-如果学习这件事本来是为了让生活**变得更美好**，那当你用极其痛苦的方式去学习时，其实已经有点本末倒置了。
+Nếu việc học vốn là để cuộc sống **trở nên tốt đẹp hơn**, thì khi bạn dùng cách cực kỳ đau khổ để học, thực ra đã đi ngược mục đích rồi.
 
-很多时候，只是**换一个心态和节奏**：
+Nhiều khi, chỉ cần **thay đổi tâm thế và nhịp độ**:
 
-- 轻松一些去学，生活的幸福感反而会提升；
-- 不再把自己钉在“必须努力”的十字架上，也更容易坚持。
+- Học nhẹ nhàng hơn, hạnh phúc cuộc sống ngược lại tăng lên;
+- Không còn đóng đinh mình trên thập giá "phải cố gắng", cũng dễ kiên trì hơn.
 
-只有先**了解自己、接纳自己、爱惜自己**，才能更好地投入到真正喜欢的事情中，才能在其中尽情玩耍，挥洒汗水，品尝收获。
+Chỉ khi **hiểu bản thân, chấp nhận bản thân, yêu quý bản thân** trước, mới có thể đầu tư tốt hơn vào những điều mình thực sự yêu thích, tận hưởng và đổ mồ hôi cho nó.
 
-> 这是一个 **学渣** 跟我说的道理。  
-> 她总喜欢戴着耳机听音乐，一脸温暖地笑着——这在学校其实是不被允许的。
+> Đây là đạo lý mà một bạn **"học kém"** đã nói với tôi.
+> Cô ấy luôn thích đeo tai nghe nghe nhạc, mỉm cười ấm áp — điều này ở trường thực ra không được phép.
 
-    她的一番话，让我释怀，让我不再靠打鸡血逼自己奋斗，开始接受自己的平凡，去感受生活本身的美好。
+    Những lời của cô ấy đã giải thoát tôi, khiến tôi không còn dùng "chicken blood" để ép mình chiến đấu, bắt đầu chấp nhận sự bình thường của mình, cảm nhận vẻ đẹp của cuộc sống.
 
-**小练习：写给自己的三个问题**
+**Bài tập nhỏ: Ba câu hỏi dành cho bản thân**
 
-1. 如果不考虑考试与排名，我现在最想通过英语“多获得”什么？
-2. 五年后的理想生活里，英语扮演什么角色？
-3. 有哪一种学习方式，是我真心享受的？
-
----
-
-## 明确场景：先搞清楚你要“用在哪儿”
-
-学习英语之前，先把自己的需求拆清楚。不同场景，对学习重点完全不同。
-
-- **应试类**：高考、四六级、考研、专八  
-  关注：题型、分数线、做题策略、应试技巧。
-- **留学类**：托福、雅思、GRE、日常交流  
-  关注：听说读写均衡、学术写作、演讲和课堂参与。
-- **非应试类**：职场、技术、旅游、自我提升  
-  关注：行业词汇、邮件与文档、会议沟通、真实表达。
-
-**简单写下来：**
-
-> 我的首要场景是：________  
-> 我最迫切要提升的是：听 / 说 / 读 / 写 / 考试（选 1–2 个即可）
-
-之后的所有选择（教材、练习、投入时间）都围绕这个主场景展开，会轻松很多。
+1. Nếu không tính đến thi cử và xếp hạng, tôi muốn "đạt được thêm" điều gì nhờ tiếng Anh?
+2. Trong cuộc sống lý tưởng 5 năm sau, tiếng Anh đóng vai trò gì?
+3. Có phương pháp học nào mà tôi thực sự tận hưởng không?
 
 ---
 
-## 早起毁一天：别用透支换“努力感”
+## Xác định bối cảnh: Trước tiên hãy làm rõ bạn muốn "dùng ở đâu"
 
-为了挤出那半小时早起背书，我付出的代价是：
+Trước khi học tiếng Anh, hãy phân tích nhu cầu của mình. Các bối cảnh khác nhau đòi hỏi trọng tâm học tập hoàn toàn khác nhau.
 
-- 上午上课总打盹，课堂效率大幅降低；
-- 晚上 12:30–1:00 才睡，早上五点多就爬起来，身体严重缺乏休息；
-- 所有“能挤出来的时间”都被我挤干了，最后只能从课堂上偷回来。
+- **Thi cử**: TOEFL, IELTS, GRE, các kỳ thi tiếng Anh
+  Chú trọng: dạng bài, điểm chuẩn, chiến lược làm bài, kỹ thuật thi.
+- **Du học**: TOEFL, IELTS, GRE, giao tiếp hàng ngày
+  Chú trọng: cân bằng nghe nói đọc viết, viết học thuật, thuyết trình và tham gia lớp học.
+- **Phi thi cử**: công việc, kỹ thuật, du lịch, phát triển bản thân
+  Chú trọng: từ vựng ngành, email và tài liệu, giao tiếp họp hành, biểu đạt thực tế.
 
-结果就是：
+**Hãy viết ra:**
 
-- 课堂上既不能全力听课，也不能美美地睡一觉；
-- 看起来非常“拼”，实际学习效果大打折扣。
+> Bối cảnh chính của tôi là: ________
+> Điều tôi cần cải thiện nhất là: nghe / nói / đọc / viết / thi cử (chọn 1-2 là đủ)
 
-> 不要透支原本应该用来睡觉的时间。  
-> 不然，你不仅当不了“伟人”，反而容易变成“萎人”。
-
-那时候我和同桌还有一个共同爱好：讨论优秀作文。  
-我们凑钱买了一个能看 `.txt` 的小 `mp3`——是的，就是 **mp3**。每晚轮流由一个人朗读一篇作文，读着读着就睡着了。
-
-    我们总是意犹未尽，在讨论中进入睡眠。
-
-这样的学习，**既有乐趣，又不透支身体**，效果反而更好。
+Tất cả các lựa chọn sau đó (giáo trình, bài tập, thời gian đầu tư) đều xoay quanh bối cảnh chính này sẽ nhẹ nhàng hơn rất nhiều.
 
 ---
 
-## 不自量力：别盲目和“不同段位的人”对标
+## Dậy sớm hủy cả ngày: Đừng đánh đổi sức khỏe lấy "cảm giác nỗ lực"
 
-除了学习习惯的差距，更现实的是：人和人之间确实存在学习能力、基础和节奏的差异。
+Để cố gắng dậy sớm nửa tiếng ôn bài, tôi phải trả giá:
 
-- 盲目把一个“顶级学霸”当作目标，给自己安排过重任务，很容易每天都在疲惫和自责里挣扎；
-- 过高、模糊的目标，带来的往往是自信心不断被击穿，开始怀疑自己。
+- Sáng lên lớp luôn buồn ngủ, hiệu suất lớp học giảm sút nghiêm trọng;
+- Đêm 12:30-1:00 mới ngủ, sáng hơn 5 giờ đã dậy, cơ thể thiếu nghỉ ngơi trầm trọng;
+- Tất cả "thời gian có thể vắt ra" đều bị tôi vắt hết, cuối cùng chỉ có thể lấy lại từ giờ học trên lớp.
+
+Kết quả là:
+
+- Trên lớp không thể toàn tâm nghe giảng, cũng không thể ngủ một giấc ngon;
+- Nhìn thì rất "cố gắng", hiệu quả học tập thực tế giảm đáng kể.
+
+> Đừng bào mòn thời gian vốn nên dùng để ngủ.
+> Nếu không, bạn không chỉ không trở thành "vĩ nhân", mà còn dễ trở thành "người héo mòn".
+
+Lúc đó tôi và bạn cùng bàn còn có một sở thích chung: thảo luận các bài văn hay.
+Chúng tôi góp tiền mua một chiếc `mp3` nhỏ có thể đọc `.txt` — vâng, chính là **mp3**. Mỗi tối thay phiên một người đọc to một bài văn, đọc đọc rồi ngủ thiếp đi.
+
+    Chúng tôi luôn còn thòm thèm, đi vào giấc ngủ trong cuộc thảo luận.
+
+Cách học như vậy, **vừa có niềm vui, vừa không bào mòn cơ thể**, hiệu quả ngược lại tốt hơn.
+
+---
+
+## Không lượng sức mình: Đừng mù quáng so sánh với "người ở đẳng cấp khác"
+
+Ngoài chênh lệch về thói quen học tập, thực tế hơn là: giữa người với người quả thật tồn tại sự khác biệt về năng lực học tập, nền tảng và nhịp độ.
+
+- Mù quáng coi một "học bá đỉnh cao" làm mục tiêu, tự giao cho mình quá nhiều nhiệm vụ, rất dễ mỗi ngày chìm trong mệt mỏi và tự trách;
+- Mục tiêu quá cao, mơ hồ thường khiến sự tự tin liên tục bị phá vỡ, bắt đầu nghi ngờ bản thân.
 
 `Don't push yourself too hard!`
 
-> “人生有三次成长：  
-> 一是发现自己不再是世界的中心的时候；  
-> 二是发现再怎么努力也无能为力的时候；  
-> 三是接受自己的平凡并去享受平凡的时候。” —— 周国平
+> "Cuộc đời có ba lần trưởng thành:
+> Một là khi phát hiện mình không còn là trung tâm của thế giới;
+> Hai là khi phát hiện dù cố gắng thế nào cũng bất lực;
+> Ba là khi chấp nhận sự bình thường của mình và tận hưởng sự bình thường đó." — Chu Quốc Bình
 
-**你需要的是“适合当前自己的目标”，而不是别人眼中的理想目标。**
-
----
-
-## 并不享受所做的事情
-
-那段时间，我本质上是在为了“读书而读书”，为了“排名而学习”：
-
-- 排名上升时，有短暂的快乐；
-- 排名下降时，立刻掉进恐惧、自责和焦虑里。
-
-这种学习方式几乎没有任何乐趣可言，也很难持久。
-
-相反，很多高效的学习，反而出现在**兴趣驱动、不刻意的时刻**：
-
-- 拿起一本好书，初读几章，被优美的语言吸引，不知不觉一口气读完；
-- 看别人弹尤克里里觉得很酷，搜教程、跟着练，过一阵子自己也能哼哼唱唱弹上几曲。
-
-> Enjoy what you are doing！
-
-如果你能把英语学习和真正感兴趣的东西绑在一起，比如：  
-喜欢美剧就用原声 + 中文字幕过一遍，再用英文字幕重看；  
-喜欢技术就读英文文档和 Issue；  
-喜欢八卦就刷英文论坛……  
-学习的过程会轻松很多。
+**Điều bạn cần là "mục tiêu phù hợp với bản thân hiện tại", chứ không phải mục tiêu lý tưởng trong mắt người khác.**
 
 ---
 
-## 没有合理的学习计划
+## Không tận hưởng việc đang làm
 
-学习是非常讲究**策略**的，时间分配也绝不是越平均越好。
+Trong giai đoạn đó, bản chất tôi đang "đọc sách vì đọc sách", "học vì xếp hạng":
 
-那时的我有几个明显问题：
+- Xếp hạng tăng, có niềm vui ngắn ngủi;
+- Xếp hạng giảm, lập tức rơi vào sợ hãi, tự trách và lo lắng.
 
-- 没有认真分析自己的薄弱环节，无法做到“有的放矢”；
-- 对于难以理解的知识点，没有主动去讨论、请教和交流；
-- 每天安排大量机械时间，却没有留出“总结、复习、迁移”的空间。
+Cách học này gần như không có niềm vui gì, cũng rất khó bền lâu.
 
-更合理的做法是：
+Ngược lại, nhiều việc học hiệu quả lại xuất hiện trong **những khoảnh khắc được thúc đẩy bởi hứng thú, không cố ý**:
 
-- 先找到自己的薄弱环节（比如听力、词汇量、写作），集中火力突破一两个；
-- 坚持“输出驱动”：学到的东西要写、要说、要用，哪怕很简单；
-- 定期回顾：每周花一点时间回看自己学了什么、真正留下了什么。
+- Cầm một cuốn sách hay, đọc vài chương đầu, bị ngôn ngữ đẹp cuốn hút, không biết không hay đọc hết cả cuốn;
+- Thấy người khác chơi ukulele hay quá, tìm hướng dẫn, theo tập, một thời gian sau cũng có thể hát nghêu ngao vài bài.
 
-> 在我调整了学习方法之后，不再给自己施加巨大的压力，  
-> 实际学习时间看似减少了（但**有效时间**增加了），成绩反而上升了。
+> Enjoy what you are doing!
 
----
-
-## 认识自己的情绪：谁在支配你“不想学”？
-
-学一项技能时，你可能会有这样的经验：
-
-> 有时候效率奇高、有如神助；  
-> 有时候完全不在状态，只想刷手机或打游戏。
-
-当你觉得“就是不想学”的时候，到底是谁在控制你的行为？
-
-很多时候，是**情绪**在悄悄做决定。
-
-在人的深层意识里，情绪往往更懂你想要什么。
-
-- 一件很小的事，就能让你整天不想动；
-- 有时不是“懒”，而是焦虑、恐惧、愤怒在背后作祟。
-
-美国神经科学家约瑟夫·莱杜（Joseph E. LeDoux）认为：  
-焦虑、恐惧、急躁等情绪，在大脑中大致有两条通路，可以并行运作。  
-当两条通路互相补位时，人能对外界刺激做出及时、准确的反应；  
-当其中一条出问题，或者它们严重冲突时，人就容易出现各种心理困扰。
-
-> 你不需要完全理解神经科学，只要知道：  
-> 很多时候，“不想学”并不是你的道德问题，而是大脑在发出信号。
-
-学会**认识自己的情绪，和情绪打个招呼**，而不是一味压制或自责：
-
-- 感到抗拒时，先问问自己：是太累？太难？还是太无聊？
-- 尝试换一种更轻松的形式（比如换材料、换时间段），而不是硬刚。
-- 给自己一点“情绪缓冲区”，再回到学习任务上。
-
-> 推荐电影：《头脑特工队》  
-> 它用简单的方式讲清了：情绪不是敌人，而是帮我们看清自己真正需要什么的伙伴。
+Nếu bạn có thể gắn việc học tiếng Anh với những thứ bạn thực sự quan tâm, ví dụ:
+Thích phim Mỹ thì xem nguyên bản + phụ đề tiếng Việt một lần, rồi xem lại với phụ đề tiếng Anh;
+Thích công nghệ thì đọc tài liệu và Issue tiếng Anh;
+Thích tin đồn thì lướt diễn đàn tiếng Anh...
+Quá trình học sẽ nhẹ nhàng hơn rất nhiều.
 
 ---
 
-## 该做与不该做
+## Không có kế hoạch học tập hợp lý
 
-**本指南不提倡：**
+Học tập rất cần **chiến lược**, phân bổ thời gian cũng không phải càng đều càng tốt.
 
-- 把自己当成 **苦行僧** 一样透支；
-- 通过熬夜、在公交车上看书、骑车时听英语等方式冒险；
-- 靠“通宵达旦、日夜兼程”的极端方式来证明自己努力。
+Lúc đó tôi có vài vấn đề rõ ràng:
 
-那些你以为“原力爆发”换来的成果，往往会在未来以加倍的疲惫和健康问题来“要回去”。
+- Không phân tích nghiêm túc điểm yếu của mình, không thể "có trọng tâm";
+- Với những kiến thức khó hiểu, không chủ động thảo luận, hỏi han và trao đổi;
+- Hàng ngày sắp xếp lượng lớn thời gian máy móc, nhưng không dành không gian cho "tổng kết, ôn tập, chuyển giao".
 
-> **太用力的人跑不远。**
+Cách hợp lý hơn là:
 
-**本指南提倡：**
+- Trước tiên tìm ra điểm yếu (ví dụ nghe, vốn từ, viết), tập trung đột phá một hai điểm;
+- Kiên trì "đầu ra dẫn dắt": học được thì phải viết, phải nói, phải dùng, dù đơn giản;
+- Ôn tập định kỳ: mỗi tuần dành chút thời gian xem lại mình đã học gì, thực sự giữ lại được gì.
 
-- 遵循科学的学习方法，**合理且稳定地分配时间**；
-- 通过良好的学习习惯，达到**事半功倍**的效果；
-- 默认你已经有一定英语基础，且不坚信“英语无用论”；
-- 保持 **认真** 的学习态度，同时接受学习是一件需要 **持之以恒** 的长期事情；
-- 相信科学，采用合理的学习方案，量力而行，享受这个过程，**Enjoy！**
+> Sau khi tôi điều chỉnh phương pháp học, không còn gây áp lực lớn cho bản thân,
+> thời gian học thực tế dường như giảm (nhưng **thời gian hiệu quả** tăng), kết quả ngược lại tăng lên.
 
 ---
 
-## 给自己创造良好的英语环境
+## Nhận biết cảm xúc của mình: Ai đang điều khiển bạn "không muốn học"?
 
-如果条件允许，尽量让自己“置身于英语世界”中。
+Khi học một kỹ năng, bạn có thể có trải nghiệm như thế này:
 
-- Consume media only in English，  
+> Đôi khi hiệu suất cực cao, như có thần trợ giúp;
+> Đôi khi hoàn toàn không vào trạng thái, chỉ muốn lướt điện thoại hoặc chơi game.
+
+Khi bạn cảm thấy "đơn giản là không muốn học", rốt cuộc ai đang kiểm soát hành vi của bạn?
+
+Rất nhiều khi, là **cảm xúc** đang âm thầm quyết định.
+
+Trong ý thức sâu thẳm của con người, cảm xúc thường hiểu bạn muốn gì hơn.
+
+- Một việc rất nhỏ cũng có thể khiến bạn cả ngày không muốn động;
+- Đôi khi không phải "lười", mà là lo lắng, sợ hãi, tức giận đang ngấm ngầm tác động.
+
+Nhà khoa học thần kinh Mỹ Joseph E. LeDoux cho rằng:
+Lo lắng, sợ hãi, bồn chồn và các cảm xúc khác, trong não có đại khái hai đường dẫn, có thể hoạt động song song.
+Khi hai đường dẫn bổ trợ nhau, con người có thể phản ứng kịp thời, chính xác với kích thích bên ngoài;
+Khi một trong hai gặp vấn đề, hoặc chúng xung đột nghiêm trọng, con người dễ gặp các rối loạn tâm lý.
+
+> Bạn không cần hiểu hoàn toàn khoa học thần kinh, chỉ cần biết:
+> Rất nhiều khi, "không muốn học" không phải vấn đề đạo đức của bạn, mà là não đang phát tín hiệu.
+
+Hãy học cách **nhận biết cảm xúc của mình, chào hỏi cảm xúc**, thay vì chỉ đè nén hoặc tự trách:
+
+- Khi cảm thấy kháng cự, trước tiên hỏi bản thân: quá mệt? Quá khó? Hay quá nhàm chán?
+- Thử thay đổi hình thức nhẹ nhàng hơn (ví dụ đổi tài liệu, đổi khung giờ), thay vì cố gắng cưỡng ép.
+- Cho mình một chút "vùng đệm cảm xúc", rồi quay lại nhiệm vụ học tập.
+
+> Phim đề xuất: *Inside Out* (Những mảnh ghép cảm xúc)
+> Phim giải thích một cách đơn giản: cảm xúc không phải kẻ thù, mà là bạn đồng hành giúp ta nhìn rõ bản thân thực sự cần gì.
+
+---
+
+## Nên làm và không nên làm
+
+**Cẩm nang này không khuyến khích:**
+
+- Coi mình như **khổ hạnh tăng** và bào mòn sức khỏe;
+- Mạo hiểm bằng cách thức khuya, đọc sách trên xe buýt, nghe tiếng Anh khi đạp xe;
+- Dùng kiểu "thâu đêm suốt sáng, ngày đêm miệt mài" cực đoan để chứng tỏ mình nỗ lực.
+
+Những thành quả bạn tưởng đạt được nhờ "bùng nổ năng lượng" thường sẽ bị cuộc sống "đòi lại" trong tương lai bằng gấp đôi mệt mỏi và vấn đề sức khỏe.
+
+> **Người cố quá sức sẽ không đi được xa.**
+
+**Cẩm nang này khuyến khích:**
+
+- Tuân thủ phương pháp học khoa học, **phân bổ thời gian hợp lý và ổn định**;
+- Thông qua thói quen học tập tốt, đạt hiệu quả **sự nửa công bội**;
+- Mặc định bạn đã có nền tảng tiếng Anh nhất định, và không tin vào "thuyết tiếng Anh vô dụng";
+- Giữ thái độ học tập **nghiêm túc**, đồng thời chấp nhận rằng học tập là việc cần **kiên trì** lâu dài;
+- Tin vào khoa học, áp dụng phương án học hợp lý, lượng sức mà làm, tận hưởng quá trình, **Enjoy!**
+
+---
+
+## Tạo cho mình môi trường tiếng Anh tốt
+
+Nếu điều kiện cho phép, hãy cố gắng "đặt mình vào thế giới tiếng Anh".
+
+- Consume media only in English,
   like watching `YouTube` instead of `Bilibili`.
-- Follow some English-speaking creators，你真心感兴趣的那种：  
-  游戏、科技、健身、手工、电影解说都可以。
-- 把手机、电脑系统语言换成 English（如果对你影响不大）。
+- Follow some English-speaking creators, loại mà bạn thực sự quan tâm:
+  game, công nghệ, tập gym, thủ công, bình luận phim đều được.
+- Đổi ngôn ngữ hệ thống điện thoại, máy tính sang English (nếu không ảnh hưởng nhiều đến bạn).
 
-> Just make English **a part of your daily life**.  
+> Just make English **a part of your daily life**.
 > Make it a habit like brushing your teeth.
 
-当英语慢慢变成一种“背景噪音”式存在，你会惊讶地发现：  
-自己对英语的亲切感、容错度和接受度，都在悄悄提升。
+Khi tiếng Anh dần trở thành một sự tồn tại kiểu "tiếng ồn nền", bạn sẽ ngạc nhiên phát hiện ra:
+sự thân thiện, khả năng dung lỗi và mức độ tiếp nhận tiếng Anh của bạn đều đang âm thầm tăng lên.
 
 ---
 
-## 婴儿是如何学习语言的
+## Trẻ sơ sinh học ngôn ngữ như thế nào
 
-如果你留心观察婴儿，就会发现他们的表达经常是这样的：
+Nếu bạn quan sát kỹ trẻ sơ sinh, sẽ phát hiện chúng thường nói kiểu:
 
-- “手机妈妈开” —— 妈妈帮我把手机打开
-- “香，菜菜，妈妈” —— 妈妈做的菜好香
-- “球，弟弟，跑” —— 弟弟的球滚走了
+- "Điện thoại mẹ mở" — Mẹ mở điện thoại giùm con
+- "Thơm, rau, mẹ" — Rau mẹ nấu thơm quá
+- "Bóng, em, chạy" — Bóng của em lăn đi rồi
 
-我们大多数时候都能理解这个意思，而且不会觉得奇怪，反而会觉得很可爱。
+Hầu hết chúng ta đều hiểu ý, mà không thấy kỳ lạ, ngược lại còn thấy dễ thương.
 
-这背后至少有两个有趣的事实：
+Đằng sau có ít nhất hai sự thật thú vị:
 
-- 婴儿表达时，把各种词汇混在一起，很可能是“乱”的；
-- 父母在听的时候通常不会嘲笑孩子，而是温柔回应，为孩子创造了一个非常**安全的语言环境**。
+- Khi trẻ diễn đạt, trộn lẫn các từ vựng lại, rất có thể "lộn xộn";
+- Cha mẹ khi nghe thường không chê cười con, mà phản hồi nhẹ nhàng, tạo ra một **môi trường ngôn ngữ an toàn** cho con.
 
-同样的道理：
+Tương tự:
 
-- 在一个安全环境里，你才会愿意**大胆地开口**；
-- 一开始可以只用简单词汇拼拼凑凑地说，不用太纠结语法是否完美；
-- 只要坚持一段时间，大脑会自动帮你把这些“碎片”整理成更自然的表达。
+- Trong một môi trường an toàn, bạn mới sẵn lòng **mạnh dạn mở miệng**;
+- Ban đầu có thể chỉ dùng từ vựng đơn giản ghép lại mà nói, không cần quá câu nệ ngữ pháp hoàn hảo;
+- Chỉ cần kiên trì một thời gian, não sẽ tự động giúp bạn sắp xếp những "mảnh ghép" này thành biểu đạt tự nhiên hơn.
 
-所以，从现在开始，允许自己像婴儿一样“说不完整的英语句子”，不要急着否定自己。
+Vì vậy, từ bây giờ, hãy cho phép mình nói "những câu tiếng Anh chưa hoàn chỉnh" như trẻ nhỏ, đừng vội phủ định bản thân.
 
-> 只要你敢开口，就已经赢了一大半。
+> Chỉ cần bạn dám mở miệng, bạn đã thắng được hơn nửa rồi.
 
-那我们就从最基础、也最关键的部分开始吧——**单词**。
+Vậy chúng ta hãy bắt đầu từ phần cơ bản nhất, cũng là quan trọng nhất — **Từ vựng**.
 
-> 推荐观看：
+> Đề xuất xem:
 >
-> - [如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)  
+> - [Làm thế nào để thành thạo một ngoại ngữ trong sáu tháng | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
 > - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
 ---
 
-下一篇：[单词篇](2-vocabulary.md)
-
-
+Bài tiếp theo: [Từ vựng](2-vocabulary.md)

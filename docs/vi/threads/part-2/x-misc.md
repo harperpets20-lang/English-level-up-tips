@@ -42,10 +42,8 @@ Về ứng dụng đọc, bạn có thể dùng:
 
 ## Một số câu nói tôi thích
 
-> 真正的大师，永远都怀着一颗学徒的心。
 > Bậc thầy đích thực luôn mang trong mình trái tim của người học trò.
 
-> 我猜中了这个开头，却猜不到这个结局。
 > Tôi đoán đúng phần mở đầu, nhưng không đoán được kết thúc.
 
 > To be or not to be, that is the question. — Shakespeare

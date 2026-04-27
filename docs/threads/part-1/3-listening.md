@@ -1,257 +1,245 @@
-﻿# 听力篇
+# Nghe
 
-> 推荐的视频大多数是 YouTube 上的，通常这些视频都有准确度相当高的英语字幕（绝大多数为自动生成），由于 GFW 的原因，你需要通过**科学**上网来访问。
+> Phần lớn video đề xuất đều trên YouTube, thường có phụ đề tiếng Anh khá chính xác (hầu hết được tạo tự động).
 
-## 练习英语听力的几个误区
+## Một số sai lầm khi luyện nghe tiếng Anh
 
-- **学习材料分散**
+- **Tài liệu học phân tán**
 
-  订阅过多的听力内容，VOA、BBC、各种 Podcast、英文名篇朗读等，导致无法稳定地每天都分配时间去听；
-  今天听一篇 VOA，隔天听一篇 BBC，过两天再翻翻哪个 YouTube 频道，这种毫无计划地练习听力效率并不高；
-  VOA、BBC 还有很多优秀的 Podcast 都是很棒的学习材料，选择最感兴趣的，评估自己的学习时间，订阅适量的内容。
+  Đăng ký quá nhiều nội dung nghe, VOA, BBC, các Podcast, đọc danh tác tiếng Anh, v.v., dẫn đến không thể phân bổ thời gian ổn định mỗi ngày;
+  Hôm nay nghe VOA, hôm sau nghe BBC, vài ngày sau lại lướt kênh YouTube, cách luyện nghe không có kế hoạch hiệu quả thấp;
+  VOA, BBC và nhiều Podcast tuyệt vời đều là tài liệu học tốt — chọn cái bạn hứng thú nhất, đánh giá thời gian học của mình, đăng ký lượng vừa phải.
 
-- **学习材料超纲**
+- **Tài liệu vượt quá trình độ**
 
-  很多人一开始就尝试 VOA，这是不推荐的；即使是 VOA 慢速英语，你也会遇到生词太多导致卡住、丧失继续听下去的兴趣的情况；
-  有些喜欢钻牛角尖的同学会问：听一遍没听懂，那我听 10 遍呢？
-  事实上如果你不去通过听力材料提供的文本将生词这关先过了，听 100 遍也是收效甚微的。这与我们提倡的高效学习相悖。
-  英美剧对初学者来说就更不是 **友好** 的学习材料，根据自己的词汇量选择合适的听力材料，一步步来，循序渐进。
+  Nhiều người ngay từ đầu đã thử VOA, điều này không được khuyến khích; ngay cả VOA tốc độ chậm, bạn cũng sẽ gặp quá nhiều từ mới dẫn đến bị kẹt, mất hứng nghe tiếp;
+  Có bạn thích cãi cùn sẽ hỏi: nghe một lần không hiểu, nghe 10 lần thì sao?
+  Thực tế nếu bạn không dùng bản văn tài liệu nghe để vượt qua rào cản từ mới trước, nghe 100 lần cũng không hiệu quả. Điều này trái với phương pháp học hiệu quả chúng tôi đề xướng.
+  Phim Anh-Mỹ với người mới bắt đầu càng không phải tài liệu **thân thiện** — hãy chọn tài liệu nghe phù hợp với vốn từ của mình, từng bước một.
 
-- **过度依赖字幕**
+- **Phụ thuộc quá nhiều vào phụ đề**
 
-  喜欢刷英美剧的同学很可能产生一种错觉，边看双语字幕边听，误以为自己可以听懂绝大部分内容。
-  试着把字幕关闭，再看看。即使是二刷，我想你也会遗漏掉很多信息。
-  那么，是不是在看英美剧的时候不看字幕就能提高听力呢？答案是否定的，因为往往会违反了上一条 **学习材料超纲**，影视剧里的生词是较多的。
-  当你二刷、三刷一部喜欢的影片时，推荐关掉字幕，借助之前记忆的部分内容，会有助于你提高听力。
+  Bạn thích xem phim Anh-Mỹ rất có thể sinh ra ảo giác, vừa xem phụ đề song ngữ vừa nghe, tưởng rằng mình nghe hiểu hầu hết.
+  Thử tắt phụ đề xem. Dù là xem lần hai, tôi nghĩ bạn vẫn sẽ bỏ lỡ nhiều thông tin.
+  Vậy xem phim không phụ đề có cải thiện nghe không? Câu trả lời là không, vì thường vi phạm điều trên **tài liệu vượt quá trình độ** — phim có nhiều từ mới.
+  Khi bạn xem lại lần hai, ba một bộ phim yêu thích, nên tắt phụ đề, nhờ ký ức nội dung trước đó sẽ giúp cải thiện nghe.
 
-- **选择不感兴趣的材料**
+- **Chọn tài liệu không hứng thú**
 
-  听力材料再优秀，如果你丝毫提不起兴趣，也会成为一件苦差事，我不会劝你试着去喜欢你已经证实不会喜欢的东西。
-  要知道，现在的听力材料之丰富，远超我们的想象，找到质量上乘又有趣的内容不是非常困难。
-  而且基于激励机制，我们可以选择对 工作、生活、情感、健身 等方面有帮助的学习材料，从而激发自己的学习兴趣。
+  Tài liệu nghe dù tuyệt vời, nếu bạn không có chút hứng thú nào thì cũng trở thành việc khổ sai. Tôi sẽ không khuyên bạn cố thích những gì đã chứng minh không thích.
+  Hiện nay tài liệu nghe phong phú vượt xa tưởng tượng, tìm nội dung chất lượng và thú vị không quá khó.
+  Dựa trên cơ chế khuyến khích, chúng ta có thể chọn tài liệu có ích cho công việc, cuộc sống, tình cảm, tập gym, v.v., từ đó kích thích hứng thú học tập.
 
-- **无意识的听**
+- **Nghe vô ý thức**
 
-  大家听英文歌的时间应该不算少，可是很少有人有意识的去听歌词的内容，浪费掉了很多提高听力的机会。
-  无论是流行英文歌还是经典金曲，歌词创作的一般都相当优美。
-  如果你肯花一定的时间去了解歌词的内容，并在听音乐的时候，有意识的去识别所唱的内容，久而久之会对提高英语听力有着巨大帮助。
+  Thời gian nghe nhạc tiếng Anh không ít, nhưng rất ít người có ý thức nghe nội dung lời bài hát, lãng phí nhiều cơ hội cải thiện nghe.
+  Dù là nhạc pop tiếng Anh hay nhạc vàng kinh điển, lời bài hát thường được sáng tác rất đẹp.
+  Nếu bạn chịu dành thời gian tìm hiểu nội dung lời bài hát, và khi nghe nhạc có ý thức nhận dạng nội dung đang hát, lâu dần sẽ giúp cải thiện nghe tiếng Anh rất lớn.
 
-  > 有的时候你应该选择沉浸在优美的旋律里面而不是过分关注表达的内容，无时无刻都在学习在一定程度上很可能会降低生活幸福指数
+  > Đôi khi bạn nên chìm đắm trong giai điệu tuyệt đẹp thay vì quá chú ý đến nội dung, luôn luôn học ở mức độ nào đó có thể giảm chỉ số hạnh phúc cuộc sống
 
-## 精听与泛听
+## Nghe chuyên sâu và nghe phổ quát
 
-### 精听
+### Nghe chuyên sâu
 
-先把听力材料听明白，听懂表达的意思，然后把争取每一个单词都听清楚。精听一般会配合拼写或者用口语重复进行练习。
-听第一遍的时候记不住、跟不上、很多单词没有听清都是很正常的，多听几次就会有显著提高了。
-精听还可以帮助自己学习单词发音、连读、断句等。分析自己在听力方面的弱项，针对性的去锻炼。
-我高中时采用了很笨的方法：反复听，直到自己可以背诵、拼写整篇文章，花了大量的时间与精力去听新概念第三册，那时并没有看出对自己的英语水平有多少提升，甚至一度怀疑自己在做无用功，直到高考成绩是 115 分（满分 120）才明白受益良多。
-听力材料可选的非常多，在这里我先简单的推荐《新概念英语》第三册和第四册。
+Trước tiên nghe hiểu tài liệu, hiểu ý nghĩa diễn đạt, rồi cố gắng nghe rõ từng từ. Nghe chuyên sâu thường kết hợp với viết chính tả hoặc lặp lại bằng lời nói.
+Lần đầu nghe không nhớ, theo không kịp, nhiều từ không nghe rõ đều là bình thường — nghe thêm vài lần sẽ cải thiện rõ rệt.
+Nghe chuyên sâu còn giúp học phát âm từ, nối âm, ngắt câu. Phân tích điểm yếu của mình trong nghe, luyện tập có mục tiêu.
+Thời trung học tôi dùng cách rất "dại": nghe lặp đi lặp lại đến khi có thể đọc thuộc, viết chính tả toàn bài — dành rất nhiều thời gian và công sức nghe New Concept English tập ba. Lúc đó không thấy tiếng Anh tiến bộ bao nhiêu, thậm chí hoài nghi mình làm vô ích, mãi đến khi thi đại học được 115 điểm (thang 120) mới hiểu đã được hưởng lợi rất nhiều.
+Tài liệu nghe có rất nhiều lựa chọn, ở đây tôi đề xuất đơn giản *New Concept English* tập ba và tập bốn.
 
-### 泛听
+### Nghe phổ quát
 
-泛听是为了帮助我们更为自然地接触英语，用于培养英语语感，目的在于在听力练习中以掌握文章的整体意思，了解地道英语。
-对词汇量的提升、口语也有明显的帮助。有声书、电影、电视剧、音乐等都是泛听的好材料。
+Nghe phổ quát giúp chúng ta tiếp xúc tiếng Anh tự nhiên hơn, dùng để bồi dưỡng cảm giác ngôn ngữ, mục đích là nắm bắt ý tổng thể, hiểu tiếng Anh bản xứ.
+Cũng có lợi rõ rệt cho vốn từ vựng và khẩu ngữ. Sách nói, phim, phim truyền hình, nhạc đều là tài liệu nghe phổ quát tốt.
 
-#### 有声书
+#### Sách nói
 
-很多英文经典名著和畅销书都推出了相应的有声书版本，比如 Gone with the wind, The Kite Runner, Pride and Prejudice,The Great Gatsby 等。
-英文有声书的朗读者大都是专业的播音员或者演员出身，声线优美，朗读时的表现力很强，一定程度上让听有声书成为了一种享受，学习效果自然会好很多。
+Nhiều tác phẩm kinh điển và sách bán chạy tiếng Anh đều có phiên bản sách nói, như Gone with the Wind, The Kite Runner, Pride and Prejudice, The Great Gatsby, v.v.
+Người đọc sách nói tiếng Anh đa phần là phát thanh viên hoặc diễn viên chuyên nghiệp, giọng đẹp, biểu diễn tốt, ở mức độ nhất định biến việc nghe sách nói thành thưởng thức, hiệu quả học tập tự nhiên sẽ tốt hơn.
 
-- [audible](http://www.audible.com/) 网站资源丰富，有对应的移动端 app，挺好用的，推荐。
+- [audible](http://www.audible.com/) tài nguyên phong phú, có app di động, khá tiện, đề xuất.
 
-- 国内某些 FM 有不错的有声书可以听。
+#### Phim truyền hình
 
-#### 电视剧
+*Friends* là tác phẩm kinh điển được đánh giá cao, là tài liệu học tập cổ điển.
+Ở đây tôi đề xuất thêm *Modern Family*, đây là bộ phim hài tôi rất thích, nhiều lần đoạt giải Emmy Phim hài xuất sắc nhất. Đồng thời lời thoại rất chất lượng, là tài liệu tuyệt vời để vừa học vừa thưởng thức.
+Siêu phẩm *Better Call Saul* cũng là lựa chọn rất tuyệt vời, nhưng yêu cầu tiếng Anh cao hơn rõ rệt so với *Friends* và *Modern Family*.
 
-《老友记》是口碑上乘的佳作，是学习的经典材料。
-在这里我推荐另一部剧《摩登家庭》，这是我个人非常喜欢的一部喜剧，多次获得艾美奖最佳喜剧。同时本剧的台词相当有水平，是学习与欣赏的极佳材料。
-神剧《风骚律师》也是非常非常棒的选择，但是对英语水平的要求要明显高于《老友记》和《摩登家庭》。
+> *Modern Family* mùa đầu quay năm 2009, cuộc sống xung quanh tôi đến bây giờ vẫn chưa **hiện đại** bằng *Modern Family* 2009
 
-> 《摩登家庭》第一季拍摄于 2009 年，我周围人的生活到现在也没有**摩登**到 2009 年的《摩登家庭》
+#### Phim
 
-#### 电影
+![Nhà tù Shawshank The Shawshank Redemption](../../assets/Shawshank.jpeg)
 
-![肖申克的救赎 The Shawshank Redemption](../../assets/Shawshank.jpeg)
+Phim hay rất phù hợp nghe phổ quát, đặc biệt phim kinh điển điểm cao. Có thể tham khảo [Bảng xếp hạng phim hay Douban](https://movie.douban.com/top250).
+Những bộ phim tôi xem hơn 10 lần (lựa chọn phim theo sở thích cá nhân):
 
-优秀的电影非常适合泛听，尤其是经典高分电影。可以参考[豆瓣高分电影榜单](https://movie.douban.com/top250)。
-我刷了 10 遍+的影片（影片的选择请根据自己的喜好，我列举的仅代表个人喜好）：
+- *Flipped* (Rung động)
+- *The Godfather 1 2 3* (Bố già)
+- *WALL·E* (Robot biết yêu)
+- *Witness for the Prosecution* (Nhân chứng buộc tội)
+- *The Apartment* (Căn hộ)
+- *Interstellar* (Hành trình xuyên không gian)
+- *Life Is Beautiful* (Cuộc sống tươi đẹp)
 
--《怦然心动》
--《教父123》
--《机器人总动员》
--《控方证人》
--《桃色公寓》
--《星际穿越》
--《美丽人生》
+> Học tiếng Anh qua phim thực sự cần nền tảng tốt, và hiệu quả phần lớn là thu hoạch thêm từ việc thưởng thức phim.
+> Podcast và bản ghi âm phim có lrc ít nhiễu hơn xem phim thuần túy, giảm phần thông tin thị giác, hiệu quả học tốt hơn.
 
-> 通过电影、美剧等学习英语真的需要良好的基础，而且这部分的学习效果更多的是来自于享受电影、电视剧的额外收益。
-> Podcast 和带 lrc 的美剧录音比纯看美剧要少很多干扰，在同时摄入的信息量上减少了视觉信息这部分，学习效果更好。
-
-#### 音乐
+#### Nhạc
 
 ![top-songs-2021](../../assets/top-songs-2021.jpg)
 
-欧美金曲值得推荐的实在太多，无法一一列举：
-- 受欢迎的歌手：贾斯汀·比伯、戳爷、水果姐、霉霉、盆栽精、打雷、Ed Sheeran, Adele, Maroon 5, Bilie Eilish, Sam Smith 等等
-- iTunes 榜
+Nhạc vàng Âu Mỹ đáng đề xuất rất nhiều, không thể liệt kê hết:
+- Ca sĩ được yêu thích: Justin Bieber, Troye Sivan, Katy Perry, Taylor Swift, The Weeknd, Imagine Dragons, Ed Sheeran, Adele, Maroon 5, Billie Eilish, Sam Smith, v.v.
+- iTunes Chart
 - BillBoard
-- UK 榜
+- UK Chart
 
-#### 直播
+#### Livestream
 
-如果你喜欢看直播，去[Twitch](https://www.twitch.tv/)上找找喜欢的主播吧。
-## 入门听力训练
+Nếu bạn thích xem livestream, lên [Twitch](https://www.twitch.tv/) tìm streamer yêu thích.
+
+## Luyện nghe cho người mới bắt đầu
 
 - [Basic English Grammar](https://www.youtube.com/watch?v=Rp3LqMYBhkQ&list=PL2621D8F6B6B29B7B)
-  这是一个非常适合初学者的听力入门学习材料,主要讲解一些基础语法，但是内容非常简单，同时介绍很多基础词汇，语速适中正是初学者需要掌握的。
+  Đây là tài liệu nghe rất phù hợp cho người mới, chủ yếu giải thích ngữ pháp cơ bản nhưng nội dung rất đơn giản, giới thiệu nhiều từ vựng cơ bản, tốc độ vừa phải — đúng những gì người mới cần.
 
 - [Learn English with Valen - Basic English lessons by ValenESL](https://www.youtube.com/channel/UCgzuT-fpJiyThTUlMiFRCKQ)
-  内容大多数为很基础的英语语法、一些词汇的用法等，非常适合初学者。虽然视频内容较旧，作者停止了更新，但是依然是非常棒的初学者教程。
+  Nội dung chủ yếu là ngữ pháp tiếng Anh cơ bản, cách dùng từ, rất phù hợp người mới. Dù nội dung cũ, tác giả đã ngừng cập nhật, nhưng vẫn là hướng dẫn tuyệt vời cho người mới.
 
+## Nâng cao - Cách nghe hiểu tài liệu tiếng Anh không chậm
 
-## 高阶 - 如何听懂非慢速英语材料
+Bạn có đôi khi cảm thấy khó theo kịp người bản ngữ nói, hoặc không hiểu video YouTube hay phim? Rõ ràng kết quả kiểm tra nghe trên một số app học tiếng Anh còn ổn, nhưng tắt phụ đề xem phim thì chịu?
 
-你是否有时候觉得很难跟上母语为英语的人的说话，或者无法理解YouTube上的视频或电影？是不是明明自己在某些英语学习App听力测试结果还行，自我感觉良好，可一旦脱离字幕去看影视剧就噶了？
+Lưu ý, hầu hết tài liệu luyện nghe đều đã **được xử lý**, **giảm độ khó để người học không quá nản lòng**.
 
-请注意，那些听力训练材料绝大多数都是**处理过的**，**为了不让学习者过于沮丧而降低了难度**。
+Khi học nghe tiếng Anh, sai lầm phổ biến nhất là **tập trung quá vào từng từ đơn lẻ** thay vì ý nghĩa cả câu.
 
-学习英语听力时，人们最常犯的错误是**过度关注单个单词**，而不是整个句子的意思。
+Nhưng **từ vựng thay đổi trong các ngữ cảnh khác nhau**!
 
-但是**单词在不同的语境中会发生变化**!
+Khi bạn đặt hai từ cạnh nhau, **phát âm cũng thay đổi**!
 
-当你把两个单词放在一起时，它们的**发音也会改变**!
+Nếu bạn dịch từng từ, hiểu biết rất có thể bị sai. Vì vậy, bạn nên **nghe cả câu** để hiểu tiếng Anh tốt hơn.
 
-如果你是逐字翻译，你的理解很可能会出错。所以，你应该**听整个句子**，这样你才能更好地理解英语。
+Nếu bạn muốn tìm hiểu sâu, tôi khuyến khích xem video này [Understand Native English Speakers with this Advanced Listening Lesson](https://www.youtube.com/watch?v=D6_qpaSxAQc)
 
-如果你想深入了解这个话题，我强烈推荐你耐心观看这个视频 [Understand Native English Speakers with this Advanced Listening Lesson](https://www.youtube.com/watch?v=D6_qpaSxAQc)
+## Tài liệu học tiếng Anh tuyệt vời
 
-
-## 优秀的英语学习材料推荐
-
-### 编程相关
+### Liên quan đến lập trình
 
 - [laracasts](https://laracasts.com/)
-  推荐指数：5
+  Đề xuất: 5
 
-这是一个关于前端和 PHP 框架 Laravel 的视频教程网站，内容更新及时，讲解细致，大部分内容免费，对刚入门的程序员很友好。
-教程内容涉及 JavaSrcipt/Vue.js/React/Laravel/PHP/编辑器的进阶教程等。
-很喜欢他的那句口头禅 _Does it make sense to you?_
+Đây là trang video hướng dẫn về frontend và framework PHP Laravel, nội dung cập nhật kịp thời, giải thích chi tiết, phần lớn miễn phí, rất thân thiện với lập trình viên mới.
+Nội dung bao gồm JavaScript/Vue.js/React/Laravel/PHP/hướng dẫn nâng cao editor, v.v.
+Rất thích câu cửa miệng _Does it make sense to you?_
 
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
-  推荐指数：5
+  Đề xuất: 5
 
-如果你想学习 React/Redux/MobX/AngularJS/NodeJS/Docker 等，这里会是你愿意花很多时间待的地方
+Nếu bạn muốn học React/Redux/MobX/AngularJS/NodeJS/Docker, đây sẽ là nơi bạn muốn dành nhiều thời gian
 
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-  推荐指数：5
+  Đề xuất: 5
 
-也是关于前端的一个很棒的频道，作者是个可爱的大胖子，内容覆盖面广，更新及时。作者发音较为标准，且速度较慢，新手也不会觉得吃力。
+Cũng là kênh frontend rất tuyệt, tác giả là anh chàng mập đáng yêu, phạm vi nội dung rộng, cập nhật kịp thời. Phát âm khá chuẩn và tốc độ chậm, người mới không thấy khó khăn.
 
 - [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
-  推荐指数：4
+  Đề xuất: 4
 
-Derek 制作的 _一个视频学习一门语言_ 的教程系列可以帮助你快速了解一些流行编程语言的基础语法,不过单位时间内包含的信息量大且语速稍快，适合有一定基础的同学。
+Chuỗi hướng dẫn _một video học một ngôn ngữ_ của Derek giúp bạn nhanh chóng nắm ngữ pháp cơ bản một số ngôn ngữ lập trình phổ biến, nhưng lượng thông tin lớn và tốc độ hơi nhanh, phù hợp với người đã có nền tảng.
 
-- [The Net Ninja 10](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-  推荐指数：4
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  Đề xuất: 4
 
-前端学习很棒的一个频道，较早的内容开头的忍者语音有点吓人，近期的视频开头已经替换为相对友好的提示音。该频道 CSS/Sass 相关的教程值得推荐。
+Kênh frontend rất tuyệt, các nội dung đầu có âm thanh ninja hơi đáng sợ, video gần đây đã thay bằng âm thanh thân thiện hơn. Hướng dẫn CSS/Sass đáng đề xuất.
 
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
-  推荐指数：4
+  Đề xuất: 4
 
-这是一个对刚入门的前端程序员友好的频道，细致的基础内容，CSS、JQuery 相关的内容值得推荐。
+Kênh thân thiện cho lập trình viên frontend mới, nội dung cơ bản chi tiết, nội dung CSS, JQuery đáng đề xuất.
 
 - [egghead.io](https://egghead.io/)
-  推荐指数：4
+  Đề xuất: 4
 
-拥有较为丰富的前端课程，小部分免费。
+Có khá nhiều khóa học frontend, một phần nhỏ miễn phí.
 
-### YouTube 频道推荐
+### Kênh YouTube đề xuất
 
 - [EnglishLessons4U - Learn English with Ronnie! [engVid]](https://www.youtube.com/user/EnglishLessons4U)
 
-  **力荐** 学习英语的基础语法，很多小技巧都挺实用。最最重要的是，Ronnie 老师实在是太幽默啦，学习的过程中你会感受到快乐！
+  **Đặc biệt đề xuất** học ngữ pháp tiếng Anh cơ bản, nhiều mẹo nhỏ thực dụng. Quan trọng nhất là cô Ronnie quá hài hước, trong quá trình học bạn sẽ cảm nhận niềm vui!
 
 - [English with Lucy!](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA)
 
-  妹纸很漂亮，和我当年的大学英语老师有的一拼。
+  Cô gái rất xinh đẹp.
 
 - [EnglishAnyone](https://www.youtube.com/channel/UCrJHj7MDQhmQ9iFuACdoWCg)
 
-  教你说流利英语,因为作者的发音清晰、标准，设计的内容也比较贴近日常生活，是练习听力很棒的频道
+  Dạy bạn nói tiếng Anh lưu loát, phát âm rõ ràng, chuẩn mực, nội dung gần gũi cuộc sống hàng ngày, kênh luyện nghe rất tuyệt.
 
 - [Speak English With Vanessa](https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ)
 
-  Vanessa 老师给人一种热情、乐观的感觉，发音标准，声情并茂。
+  Cô Vanessa cho cảm giác nhiệt tình, lạc quan, phát âm chuẩn, giàu cảm xúc.
 
 - [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g/)
 
-  Emma 老师的发音柔软清透、温和迷人。
+  Giọng cô Emma mềm mại, trong trẻo, ấm áp quyến rũ.
 
 - [English Fluency Journey](https://www.youtube.com/channel/UC9eIq7PwD0WA-2B_Sp7xGdw)
 
-  跟着 Anna 老师学习对话，受益良多。
+  Học hội thoại với cô Anna, được hưởng lợi rất nhiều.
 
-### 超级英雄电影爱好者不该错过的频道
+### Kênh dành cho fan phim siêu anh hùng
 
 - [TopMovieClip](https://www.youtube.com/channel/UClVbhSLxwws-KSsPKz135bw)
-  漫威超级英雄电影精彩剪辑，很养眼。
+  Cắt ghép phim siêu anh hùng Marvel, rất mãn nhãn.
 
 - [BestClips 4](https://www.youtube.com/channel/UC8BQGqcCSFq6RC9feEGUGFA)
-  超级英雄电影相关
+  Liên quan đến phim siêu anh hùng
 
-### 脱口秀类节目
+### Chương trình talk show
 
 - [Jimmy Kimmel Live](https://www.youtube.com/channel/UCa6vGFO9ty8v5KZJXQxdhaw)
-  鸡毛秀
+  Jimmy Kimmel Show
 
 - [TheEllenShow](https://www.youtube.com/channel/UCp0hYYBW6IMayGgR-WeoCvQ)
-  艾伦秀
+  Ellen Show
 
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
-  Late 秀
+  Late Show
 
-### 音乐频道  
+### Kênh nhạc
 
 - [Valerie Pola](https://www.youtube.com/watch?v=mwfg8YmZM3E)
-
 - [Luciana Zogbi](https://www.youtube.com/watch?v=39_OmBO9jVg)
-
 - [Sara Farell](https://www.youtube.com/watch?v=2jZFsQS8Veo)
-
 - [JFla](https://www.youtube.com/watch?v=MhQKe-aERsU)
-
 - [Boyce Avenue](https://www.youtube.com/watch?v=HcQJzFzZfVI)
-
 - [xooos](https://www.youtube.com/c/xooos)
-
 - [Hailee Steinfeld](https://www.youtube.com/channel/UCWfytcGFwPSMwvP5HYuXGqw)
 
-### 其他
+### Khác
 
 - [Disney UK](https://www.youtube.com/user/WaltDisneyStudiosUK)
-  冰雪奇缘主题曲 FROZEN 的播放量高达 10 亿+!
+  Bài hát chủ đề Frozen FROZEN có lượt xem hơn 1 tỷ!
 - [Vevo](https://www.youtube.com/user/VEVO)
-  电影级 MV 的集中营呀,VEVO 旗下有很多视频都有单独的频道，请自行查找感兴趣的
+  Tập trung MV cấp độ điện ảnh, VEVO có nhiều video với kênh riêng, tự tìm theo sở thích
 - [OneDirectionVEVO](https://www.youtube.com/user/OneDirectionVEVO)
-  OneDirection 粉应该关注的频道
+  Kênh dành cho fan OneDirection
 - [SiaVEVO](https://www.youtube.com/channel/UCmKdSrwf1e8coqAzUsrVHZw)
-  个人非常喜欢，视频质量感人，引人深思
+  Cá nhân rất thích, chất lượng video cảm động, gợi suy ngẫm
 - [SSSniperWolf](https://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQ)
-  一只可爱的妹子。
-- [TED 6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
-  TED Talks,听听别人的 idea 是一件很有意思的事情，建议从热门的开始看，TED Talks 的热门视频往往都有多国语言字幕。
+  Một cô nàng dễ thương.
+- [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
+  TED Talks, lắng nghe ý tưởng của người khác là điều rất thú vị, nên bắt đầu từ video phổ biến, video hot thường có phụ đề đa ngôn ngữ.
 
+## Video YouTube đề xuất riêng
 
+- [Kỹ năng tự tin - TS. Ivan Joseph - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs)
+- [Một mẹo nhỏ để nói tiếng Anh lưu loát](https://www.youtube.com/watch?v=l96V7dQtq9E)
+- [Julian Treasure: Cách nói để người ta nghe](https://www.youtube.com/watch?v=eIho2S0ZahI)
+- [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM)
 
-## 单独推荐的 YouTube 视频
-
-- [自信的技巧 - 伊万•约瑟夫博士 - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQwMDc4MA==.html)
-- [说流利英语的一个小技巧](https://www.youtube.com/watch?v=l96V7dQtq9E) | [优酷链接](http://v.youku.com/v_show/id_XMjc2MzE0NTQ4NA==.html)
-- [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI) | [B 站链接](http://www.bilibili.com/video/av2915315/)
-- [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQxMjMwNA==.html)
-
-下一篇：[阅读篇](4-reading.md)
-
+Bài tiếp theo: [Đọc](4-reading.md)

@@ -1,7 +1,7 @@
 # Mục lục
 
 * [Trang chủ](README.md)
-* [中文（bản gốc）](#/)
+* [Trang chủ](#/)
 * [English](#/en/)
 
 ### Phần I
