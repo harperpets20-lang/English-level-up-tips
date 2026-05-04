@@ -1,95 +1,79 @@
-## WHY
+# TẠI SAO (WHY)
 
-The reason I wanted to write this article is because I get one question very often from Github. Actually, I get a lot of questions, but there is one that stands out: How can I speak fluently about many different topics?
+Chủ đề hôm nay là **WHY**.
 
-LOL ~
+Có thể bạn đã đọc chương "Nhận thức" và có thắc mắc: tại sao tôi phải nói tiếng Anh lưu loát? Cuộc sống của tôi cũng ổn mà?
 
-To be honest, I couldn’t speak English fluently even though I have been learning it for many years.
+Đúng, cuộc sống bạn có thể ổn. Nhưng hãy nghĩ thế này:
 
-I know you want to speak like a native English speaker. You want to sound natural. You really want to speak fluently. Well, in order to do that, you must use the words and expressions that we actually use in real life. And that’s why I created this series for you: Real life English.
+## WHY — Tại sao phải nói lưu loát
 
-Now I’m going to teach you words and expressions we really use. Are you ready?
+- Để **tự tin** hơn khi giao tiếp với người nước ngoài
+- Để tiếp cận **nhiều cơ hội việc làm** hơn
+- Để **tận hưởng** phim ảnh, sách, nhạc, podcast nguyên bản mà không cần phụ đề hay bản dịch
+- Để **kết nối** với cộng đồng quốc tế
+- Để **học nhanh hơn** — phần lớn tài liệu tốt nhất trên Internet viết bằng tiếng Anh
 
-Well then, Let’s jump right in.
+> "If you talk to a man in a language he understands, that goes to his head. If you talk to him in his own language, that goes to his heart." — Nelson Mandela
 
-## FIRST TOPIC
+---
 
-One of the most common problems I hear about nowadays is **I am so tired**. And you are not alone. I experienced the biggest failure in my life in the past year. The startup company I ran went bankrupt. I lost my wealth, a precious friendship, and the person I loved. For a whole year, I couldn’t sleep well and felt very tired every day. 
+## Huyền thoại về giấc ngủ và nhịp sinh học
 
-**Trust me, I know that terrible feeling**.
+Một chủ đề khá thú vị liên quan: nhiều người tin rằng thức khuya học sẽ hiệu quả hơn, hoặc lo lắng về giấc ngủ đến mức... mất ngủ.
 
-So, our first topic will be: `why are you always tired?`
+### Huyền thoại 1: Bạn cần đúng 8 tiếng ngủ
 
-Whether you are experiencing unemployment, or just broke up, or are confused about the future, let’s calm down and **talk like old friends**.
+Lượng ngủ cần thiết thay đổi theo từng người. Một số người chỉ cần 6-7 tiếng, người khác cần 9 tiếng. Quan trọng nhất là **chất lượng giấc ngủ**, không chỉ số giờ.
 
-Before I created this course, I searched online for many articles on this topic. Some of the YouTube videos and answers of ChatGPT inspired me a lot. I summarized the ideas of several popular videos and shared them with you here.
+### Huyền thoại 2: Mất ngủ sẽ gây hại vĩnh viễn
 
-Apart from medical health issues, I summarize them into the following three points and we will discuss them in depth around these 3 points.
+Một đêm mất ngủ không gây tổn thương não vĩnh viễn. Cơ thể có khả năng phục hồi. Điều nguy hiểm hơn là lo lắng quá mức về mất ngủ, vì lo lắng đó chính là nguyên nhân khiến bạn không ngủ được.
 
-### Sleep Anxiety
+### Huyền thoại 3: Bạn phải ngủ trước 11h đêm
 
-The first point is `Sleep Anxiety`.
+Không có bằng chứng khoa học rõ ràng rằng giờ ngủ cố định quan trọng hơn tổng lượng ngủ. Thói quen nhất quán mới là điều đáng theo đuổi.
 
-Sleep anxiety is the feeling of being scared, worried or concerned about our sleep, which paradoxically makes it harder for us to fall asleep. This creates a **vicious cycle** that is quite harmful. I’ve been researching the science behind sleep for a while, but even as someone with a medical background, things can get super confusing. And generally, when I talk to people in this area, it’s hard to figure out what’s good advice to follow and what’s bad advice to ignore.
+It's generally good to wake up at the same time each day, but you don't really need to be too strict about it. The other thing to keep in mind is that our circadian rhythms can change over the course of our life cycle. For example, it's very common for teenagers to have more of an evening chronotype, which is why they have a hard time waking up in the morning.
 
-For sleep anxiety, we must be aware of the following myths:
+### Huyền thoại 4: Ánh sáng xanh ảnh hưởng lớn đến giấc ngủ
 
-### Myth one: `It doesn’t matter when you sleep as long as you sleep enough`.
+Blue light is light that has a short wavelength and more energy. Scientists have hypothesized that blue light affects the eye in some way and makes it harder to fall asleep. Tuy nhiên, nghiên cứu gần đây cho thấy ảnh hưởng của ánh sáng xanh đến giấc ngủ có thể không lớn như mọi người nghĩ.
 
-In the 1990s, Russell and his research group discovered that there are some cells in our eyes that only detect light, rather than helping us to see images. This light detection mechanism in our eyes tells our brain what time of the day it is and helps regulate our internal clock. Now, since our internal clocks are sensitive to light, it means that generally we want to be awake when it’s bright outside and we want to be asleep when it’s dark outside.
+---
 
-And actually, for the last few years, Russell and his research group have been studying what happens when the `circadian rhythm` is disrupted by sleeping at weird times, for example if you have jet lag or if you work night shifts. And they found that these people who have this disruption to their circadian rhythm have an increase in stress hormones, an increase in the risk of heart disease, and they get sick way more often. They are also more `prone to emotional` and `cognitive problems`.
+## LỐI SỐNG KHÔNG LÀNH MẠNH
 
-> Reference video: https://www.youtube.com/watch?v=qlf9-573MhI 00:02:28,070 - 00:02:38,210
+Điều thứ hai là `lối sống không lành mạnh`. Lời khuyên ngắn gọn: hãy vận động nhiều hơn. Tích cực hoạt động thể chất trong ngày. Tập thể dục giúp cải thiện tâm trạng, trao đổi chất và mức năng lượng. Vì kiến thức về thể dục của tôi còn hạn chế, ở đây chỉ lướt qua.
 
-It is important to understand that we all have an **internal clock** that ticks inside us. However, our internal clocks are not exactly the same. That’s why you hear people say they are morning people or night owls. This is related to something called your `chronotype`, which is based on your natural tendency to sleep at a certain time. Scientists can categorize us into different chronotypes. 
+---
 
-For example, someone who naturally wakes up early and finds the morning to be their most productive hours of the day probably has a morning chronotype. And if you are more of a morning person, you might find it better to do your creative or high-focus tasks in the morning. On the other hand, if you are a night owl, that’s fine too if you can control your schedule. It is generally worth trying to adjust things so that you do focused work at night.
+## ĐỐI PHÓ VỚI STRESS
 
-### Myth two: Everyone needs eight hours of sleep
+Điều quan trọng nhất tôi muốn chia sẻ là `cách đối phó với stress`.
 
-The truth is that there is a lot of variation in how much sleep people actually need. So, instead of worrying too much about the number of hours of sleep you got and thinking, “Oh, I only got seven hours of sleep last night, I’m going to have a terrible day,” there are a few other things that you can do to optimize your sleep.
+Hãy quản lý stress và học cách thư giãn đúng cách.
+> Video có thể giúp bạn: https://www.youtube.com/watch?v=9QiE-M1LrZk
 
-### Myth three: We should wake up at the same time every day
+Tôi đã đề cập trong bài viết trên [Zhihu](https://zhuanlan.zhihu.com/p/653380203) rằng tôi đã nghiện game một thời gian, nhưng vượt qua bằng phương pháp `dopamine detox`.
 
-It’s generally good to wake up at the same time each day, but you don’t really need to be too strict about it. The other thing to keep in mind is that our circadian rhythms can change over the course of our life cycle. For example, it’s very common for teenagers to have more of an evening chronotype, which is why they have a hard time waking up in the morning.
+Dù bạn biết rõ rằng học tập, tập thể dục, xây dựng sự nghiệp hay làm gì đó hiệu quả sẽ mang lại nhiều lợi ích hơn trong dài hạn, bạn vẫn thích xem TV, chơi game và lướt mạng xã hội.
 
-### Myth four: You should avoid blue light before sleep
+Có người lập luận rằng lý do rõ ràng: một hoạt động thì dễ và không cần nhiều nỗ lực, hoạt động kia thì khó và đòi hỏi bạn phải cố gắng.
 
-Blue light is light that has a short wavelength and more energy. Scientists have hypothesized that blue light affects the eye in some way and makes it harder to fall asleep.
+Nhưng một số người dường như không gặp vấn đề gì với việc học, tập thể dục, hay làm các `side projects` thường xuyên.
 
+Ở giai đoạn khó khăn nhất cuộc đời, có một thứ luôn đồng hành cùng tôi tiến về phía trước, đó là `lập trình`. Sản phẩm của công ty trước cần một trình soạn thảo văn bản hiệu suất cao, nhưng không tìm được dự án mã nguồn mở nào đáp ứng yêu cầu, nên tôi tự phát triển và open source lên GitHub. Mỗi khi cảm thấy chán nản, phân tâm, tôi lặng lẽ làm dự án này. Một số thách thức tôi đã đối mặt và vượt qua:
 
-## UNHEALTHY LIFESTYLE
+- Thiết kế và code trình soạn thảo
+- Phát triển core và hệ thống plugin
+- Thiết kế cấu trúc dữ liệu cho bảng phức tạp và gửi PR cho slate.js
+- Tái cấu trúc rendering engine để loại bỏ React
 
-The second thing is `unhealthy lifestyle`. My short advice is to get more exercise. Be physically active during the day. Exercise can boost your mood, metabolism, and energy levels. Since I know very little about fitness, we will just gloss over it here.
+Nếu bạn quan tâm đến dự án này, [bạn có thể tham gia đóng góp](https://github.com/editablejs/editable).
 
+Tôi rất vui vì có thể hoàn thành nó sau hơn một năm phát triển liên tục, thay vì bỏ cuộc giữa chừng.
 
-## DEAL WITH STRESS
+Bài học hôm nay khá dài, nhưng may mắn, bây giờ đã `KẾT THÚC` rồi.
 
-The most important thing I want to share is `how to deal with stress`.
-
-Manage your stress and learn to relax properly. 
->Here is a video that might help you: https://www.youtube.com/watch?v=9QiE-M1LrZk
-
-I mentioned in my article on [Zhihu](https://zhuanlan.zhihu.com/p/653380203) that I was addicted to games for a while, but I overcame it by using the `dopamine detox method`.
-
-Even though you logically know that studying, exercising, building a business or something equally productive, will bring you more benefits in the long run, you still prefer watching TV, playing video games and scrolling through social media.
-
-One might argue that it’s obvious why. One activity is easy and doesn’t require much effort, while the other activity is difficult and it requires you to apply yourself.
-
-But some people seem to have no problem studying, exercising, or working on their `side projects` regularly.
-
-In the low point of my life, there was one thing that always accompanied me forward, and that was `programming`. I needed a high-performance rich text editor for my previous company’s product, but I couldn’t find any open source project that met our needs, so I developed one myself and open sourced it on GitHub. Whenever I felt depressed and distracted, I quietly worked on this project. Some of the challenges I faced and overcame were:
-
-- Designing and coding the editor
-- Developing the core and the plugin system
-- Designing a data structure for complex tables and submitting a PR to slate.js
-- Refactoring the rendering engine to get rid of React
-
-If you are interested in this project, [you can join and contribute](https://github.com/editablejs/editable).
-
-I was very happy that I could finish it after more than a year of continuous development, instead of giving up halfway.
-
-Today’s lesson was very long, but fortunately，it is `OVER` now.
-
-Thank you for your attention and I hope you learned something useful.
+Cảm ơn sự quan tâm của bạn và hy vọng bạn đã học được điều gì đó hữu ích.

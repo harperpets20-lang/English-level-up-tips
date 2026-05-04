@@ -1,120 +1,125 @@
-谨以此献给我曾今的挚爱 `W.`
+<!-- Phiên bản tiếng Việt -->
 
-> 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
+Tặng riêng cho người tôi từng yêu thương nhất `W.`
 
-中文 | [English](#/en/)
+> Mỗi người chúng ta đều sống trong quá khứ của riêng mình. Chỉ cần một phút để biết một người, một giờ để thích một người, một ngày để yêu một người — nhưng có thể cần cả đời để quên một người.
 
-# 项目介绍
+Tiếng Việt | [English](#/en/)
+
+# Giới thiệu dự án
 
 An advanced guide to learn English which might benefit you a lot.
 
-[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)。
+[Cẩm nang nâng cao trình độ tiếng Anh](https://github.com/harperpets20-lang/English-level-up-tips).
 
-## 背景
+## Bối cảnh
 
-你好啊朋友，欢迎来到[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)。
+Xin chào bạn — chào mừng bạn đến với [Cẩm nang nâng cao trình độ tiếng Anh](https://github.com/harperpets20-lang/English-level-up-tips).
 
-当你的目光与这些文字相遇，我衷心希望，这不仅仅是一次攻克英语的艰苦征程，更是一场开启智慧之门的奇妙冒险。愿这方寸纸墨，化作你我心灵共鸣的琴弦，弹奏出语言学习的天籁妙音。
+Khi ánh mắt bạn gặp những dòng chữ này, tôi chân thành hy vọng rằng đây không chỉ là một hành trình gian khó để chinh phục tiếng Anh, mà còn là một cuộc phiêu lưu kỳ diệu mở ra cánh cửa trí tuệ. Mong rằng những trang sách nhỏ này sẽ trở thành sợi dây cộng hưởng tâm hồn giữa bạn và tôi, tấu lên bản nhạc tuyệt vời của việc học ngôn ngữ.
 
-时间回到 2017 年 7 月初，备考托福的女神`W.`问了我一个问题：**如何高效学习英语？**
+Quay lại đầu tháng 7 năm 2017, `W.` (đang chuẩn bị thi TOEFL) hỏi tôi một câu hỏi:
 
-在我思考如何回答这个问题时，回想起我在大四一学期一次性考过 26 门课的经验（其中重修 19 门，当前学期 7 门），再加上本人`英语` 和 `语文` 两门学科曾**侥幸**在高考时摘得省第一（江苏卷），或许我勉强有资格提供一些`高效学习`的`小技巧`，权当抛砖引玉。
+**Làm sao để học tiếng Anh hiệu quả?**
 
-与她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现了她的学习方法存在一些`不可取之处`。
+Khi suy nghĩ về câu trả lời, tôi nhớ lại một học kỳ đã vượt qua 26 môn cùng lúc (trong đó 19 môn thi lại), cộng thêm việc tôi đã **may mắn** đạt hạng nhất tỉnh ở cả hai môn `Tiếng Anh` và `Ngữ văn` trong kỳ thi đại học (đề Giang Tô). Có lẽ tôi tạm đủ tư cách chia sẻ một vài `mẹo nhỏ` về `học tập hiệu quả`.
 
-于是我写了一篇简单的文章零散地介绍了下我学习英语的心得体会，几天后她告诉我，希望我可以将这些学习经验稍加整理，分享给更多有需要的人。
+Sau khi trao đổi kinh nghiệm học tập với cô ấy, tôi ngạc nhiên trước sự nhiệt huyết học tập của cô ấy, đồng thời cũng phát hiện ra một số phương pháp học tập `chưa phù hợp`.
 
-在此之前，我并不知道原来有那么多同学在学习英语的这件事上磕磕绊绊。
+Thế là tôi viết một bài viết đơn giản chia sẻ kinh nghiệm học tiếng Anh của mình. Vài ngày sau cô ấy nói với tôi, hy vọng tôi có thể chỉnh sửa lại để chia sẻ cho nhiều người hơn.
 
-他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
+Trước đó, tôi không biết rằng có rất nhiều người gặp khó khăn trong việc học tiếng Anh.
 
-我由衷地希望大家能**热爱**学习英语这件事情，如果做不到，那就尝试着去发现这件事情的乐趣亦或是收益。请允许我奉上乔布斯的一段话(原话指的是工作，表达的意思却是相似的)：
+Họ thậm chí chưa bao giờ nghĩ rằng: **Tiếng Anh là một ngôn ngữ, việc học nó nên là điều khá tự nhiên, giống như cách chúng ta tự nhiên học tiếng mẹ đẻ vậy**.
+
+Tôi thật lòng hy vọng mọi người có thể **yêu thích** việc học tiếng Anh. Nếu không thể, hãy thử tìm ra niềm vui hoặc lợi ích từ việc này. Xin phép được trích dẫn một câu nói của Steve Jobs (nguyên văn nói về công việc, nhưng ý nghĩa tương tự):
 
 The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
 
-> > > 成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。
+> > > Cách duy nhất để làm nên điều vĩ đại là yêu thích công việc của mình. Nếu bạn chưa tìm thấy, hãy tiếp tục tìm kiếm, đừng từ bỏ. Hãy lắng nghe trái tim mình, rồi một ngày bạn sẽ tìm thấy.
 
-**热爱之于学习**，同样如此。
+**Tình yêu đối với việc học**, cũng như vậy.
 
-在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，**真心希望本指南能给你带来一点小小的帮助**。
+Trong cẩm nang này, tôi sẽ cố gắng kết hợp quan điểm chủ quan của mình với các cơ sở khoa học nhất định, cung cấp cho mọi người một cẩm nang nâng cao tiếng Anh chi tiết, **thật lòng hy vọng cẩm nang này có thể mang lại một chút giúp ích cho bạn**.
 
-## 英语水平等级
+## Trình độ tiếng Anh
 
-![CERF@2x.png](assets/CEFR@2x.png)
+![CEFR](assets/CEFR-en@2x.svg)
 
-> 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
+> Hình ảnh tham khảo chính từ [Global scale - Table 1 (CEFR 3.3): Common Reference levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
-## 特色
+## Đặc điểm
 
-![特色介绍](assets/feature.svg)
+![Đặc điểm](assets/feature-vi.svg)
 
-## 章节
+## Các chương
 
-[![understanding](assets/understanding@2x.svg)](threads/part-1/1-understanding.md)
+[![nhận thức](assets/understanding-vi@2x.svg)](threads/part-1/1-understanding.md)
 
-[![vocabulary](assets/vocabulary@2x.svg)](threads/part-1/2-vocabulary.md)
+[![từ vựng](assets/vocabulary-vi@2x.svg)](threads/part-1/2-vocabulary.md)
 
-[![listening](assets/listening@2x.svg)](threads/part-1/3-listening.md)
+[![nghe](assets/listening-vi@2x.svg)](threads/part-1/3-listening.md)
 
-[![reading](assets/reading@2x.svg)](threads/part-1/4-reading.md)
+[![đọc](assets/reading-vi@2x.svg)](threads/part-1/4-reading.md)
 
-[![speaking](assets/speaking@2x.svg)](threads/part-1/5-speaking.md)
+[![nói](assets/speaking-vi@2x.svg)](threads/part-1/5-speaking.md)
 
-[![writing](assets/writing@2x.svg)](threads/part-1/6-writing.md)
+[![viết](assets/writing-vi@2x.svg)](threads/part-1/6-writing.md)
 
-[![ai](assets/ai@2x.svg)](threads/part-1/7-ai.md)
+[![ai](assets/ai-vi@2x.svg)](threads/part-1/7-ai.md)
 
-新增的 AI 章节已经更新为 `2026` 版，重点不再只是通用 Prompt，而是更系统地回答：
+Chương AI mới đã được cập nhật phiên bản `2026`, trọng tâm không còn chỉ là Prompt chung chung, mà là trả lời có hệ thống hơn:
 
-- 为什么现在更推荐把 `Gemini` 作为英语学习主引擎
-- 如何把 `Gem / Live / Guided Learning / Canvas / quiz / flashcards` 串成完整训练流程
-- 除了 Gemini 之外，`ChatGPT / Claude / Perplexity / DeepL Write` 应该如何分工使用
-- 怎样设计真正能长期起作用的听说读写训练回路
+- Tại sao bây giờ nên ưu tiên dùng `Gemini` làm công cụ học tiếng Anh chính
+- Cách kết hợp `Gem / Live / Guided Learning / Canvas / quiz / flashcards` thành quy trình luyện tập hoàn chỉnh
+- Ngoài Gemini, `ChatGPT / Claude / Perplexity / DeepL Write` nên phân công sử dụng như thế nào
+- Cách thiết kế vòng lặp luyện tập nghe nói đọc viết thực sự hiệu quả lâu dài
 
-如果你想把 AI 真正变成英语学习的加速器，而不只是偶尔帮你翻译两句，这一章值得重点看。
+Nếu bạn muốn biến AI thành máy tăng tốc học tiếng Anh thực sự, chứ không chỉ thỉnh thoảng nhờ dịch vài câu, chương này đáng đọc kỹ.
 
-[![word-list](assets/word-list@2x.svg)](threads/word-list/Common.md)
+[![bảng từ vựng](assets/word-list-vi@2x.svg)](threads/word-list/Common.md)
 
-[![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
+[![tản mạn](assets/Others-vi@2x.svg)](threads/part-2/x-misc.md)
 
-[我的故事](threads/part-2/my-story.md)
+[Câu chuyện của tôi](threads/part-2/my-story.md)
 
-## 感谢
+## Công cụ luyện tập tương tác
 
-- 感谢所有关心以及为这份指南做出贡献的人 ❤️
+Website tích hợp các công cụ học tập tương tác giúp bạn luyện tập hiệu quả:
 
-## 番外篇
+| Công cụ | Mô tả |
+|---------|-------|
+| [Flashcard Từ Vựng](threads/tools/flashcard.md) | Thẻ lật tương tác với 5 chủ đề, phát âm, theo dõi tiến độ |
+| [Quiz Trắc Nghiệm](threads/tools/quiz.md) | Kiểm tra từ vựng Anh-Việt / Việt-Anh, tính điểm tự động |
+| [Luyện Phát Âm](threads/tools/pronunciation.md) | Nghe mẫu, ghi âm giọng nói, so sánh phát âm |
+| [Bài Tập Ngữ Pháp](threads/tools/grammar.md) | 6 chủ đề ngữ pháp: thì, giới từ, mạo từ, điều kiện, bị động, quan hệ |
+| [Tiến Độ Học Tập](threads/tools/progress.md) | Dashboard thống kê, lịch sử quiz, chuỗi ngày học |
 
-聊聊我的个人成长经历中的爱情部分，欢迎查阅 [离谱的前女友们](https://github.com/byoungd/how-to-find-love)
+## Lời cảm ơn
 
-如果你想看我在创业失败后那段时间的真实经历，也可以读这篇：[我的故事](threads/part-2/my-story.md)
+- Cảm ơn tất cả những ai quan tâm và đóng góp cho cẩm nang này
 
-## 在线阅读
+## Đọc trực tuyến
 
-- 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
-- GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
-- GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
+- GitHub Pages: https://byoungd.github.io/English-level-up-tips/#/
+- GitBook: https://babyyoung.gitbook.io/english-level-up-tips/
 
-## 转载声明
+## Chuyển tải
 
-转载本指南，请注明作者与 GitHub 链接，谢谢！
+Nếu bạn đăng lại cẩm nang này, xin vui lòng ghi rõ tác giả và đính kèm liên kết GitHub. Xin cảm ơn!
 
-## 协议/License
+## Giấy phép
 
-本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
+Tác phẩm này được cấp phép theo CC BY-NC 4.0.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Giấy phép Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
 
-## 特别声明
+## Lưu ý đặc biệt
 
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+Cẩm nang này không nhận quyên góp hay tài trợ.
 
-**命运已经给了离谱诸多额外的馈赠，便不再需要其他奖赏**。
+Hãy dùng số tiền đó mua cho mình vài quyển sách hay.
 
-统一声明：**本指南不接受也不需要金钱上的赞助**。
-
-请把你那些原本想用来赞赏的零钱给自己买几本好书。
-
-    学习，难道不是人生最棒的乐趣么？
+    Học tập, chẳng phải là niềm vui tuyệt vời nhất trong đời sao?
 
 > Cheers and Enjoy :)
